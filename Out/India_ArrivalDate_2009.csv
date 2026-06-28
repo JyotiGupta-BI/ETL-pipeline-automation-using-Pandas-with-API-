@@ -1,0 +1,1866 @@
+Arrival_Date,Commodity,Commodity_Code,District,Grade,Market,Max_Price,Min_Price,Modal_Price,State,Variety
+2009-11-11,Potato,24,Hooghly,FAQ,Sheoraphuly,1600,1580,1580,West Bengal,Jyoti
+2009-02-12,Potato,24,Hooghly,FAQ,Sheoraphuly,1660,1650,1650,West Bengal,Jyoti
+2009-03-12,Potato,24,Hooghly,FAQ,Sheoraphuly,1600,1580,1580,West Bengal,Jyoti
+2009-04-12,Potato,24,Hooghly,FAQ,Sheoraphuly,1600,1580,1580,West Bengal,Jyoti
+2009-05-12,Potato,24,Hooghly,FAQ,Sheoraphuly,1630,1620,1620,West Bengal,Jyoti
+2009-09-12,Potato,24,Hooghly,FAQ,Sheoraphuly,1630,1620,1620,West Bengal,Jyoti
+2009-02-02,Potato,24,Howrah,FAQ,Ramkrishanpur(Howrah),430,400,420,West Bengal,Jyoti
+2009-06-03,Potato,24,Howrah,FAQ,Ramkrishanpur(Howrah),650,630,640,West Bengal,Jyoti
+2009-12-03,Potato,24,Howrah,FAQ,Ramkrishanpur(Howrah),790,770,780,West Bengal,Jyoti
+2009-01-04,Potato,24,Howrah,FAQ,Ramkrishanpur(Howrah),890,870,880,West Bengal,Jyoti
+2009-05-04,Potato,24,Dehradoon,FAQ,Vikasnagar,400,300,350,Uttrakhand,Other
+2009-03-07,Potato,24,Dehradoon,FAQ,Vikasnagar,1000,310,819,Uttrakhand,Other
+2009-05-07,Potato,24,Dehradoon,FAQ,Vikasnagar,1000,450,650,Uttrakhand,Other
+2009-07-07,Potato,24,Dehradoon,FAQ,Vikasnagar,940,400,683,Uttrakhand,Other
+2009-08-07,Potato,24,Dehradoon,FAQ,Vikasnagar,900,350,622,Uttrakhand,Other
+2009-02-08,Potato,24,Dehradoon,FAQ,Vikasnagar,1400,400,752,Uttrakhand,Other
+2009-05-08,Potato,24,Dehradoon,FAQ,Vikasnagar,1150,600,822,Uttrakhand,Other
+2009-10-08,Potato,24,Dehradoon,FAQ,Vikasnagar,1200,500,842,Uttrakhand,Other
+2009-12-08,Potato,24,Dehradoon,FAQ,Vikasnagar,1200,450,868,Uttrakhand,Other
+2009-07-09,Potato,24,Dehradoon,FAQ,Vikasnagar,1200,600,904,Uttrakhand,Other
+2009-10-06,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,400,310,350,Uttrakhand,Potato
+2009-04-07,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,740,460,525,Uttrakhand,Potato
+2009-12-07,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,750,480,550,Uttrakhand,Potato
+2009-06-08,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,1450,665,715,Uttrakhand,Potato
+2009-06-09,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,1100,650,850,Uttrakhand,Potato
+2009-04-11,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,1600,500,1000,Uttrakhand,Potato
+2009-05-11,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,1600,800,900,Uttrakhand,Potato
+2009-07-11,Potato,24,Garhwal (Pauri),FAQ,Kotadwara,1600,800,1000,Uttrakhand,Potato
+2009-12-03,Potato,24,Haridwar,FAQ,Haridwar Union,230,130,200,Uttrakhand,Other
+2009-01-04,Potato,24,Haridwar,FAQ,Haridwar Union,310,160,225,Uttrakhand,Other
+2009-06-04,Potato,24,Haridwar,FAQ,Haridwar Union,350,170,225,Uttrakhand,Other
+2009-12-02,Potato,24,Haridwar,FAQ,Lakshar,400,200,300,Uttrakhand,Other
+2009-06-07,Potato,24,Haridwar,FAQ,Lakshar,600,400,500,Uttrakhand,Other
+2009-01-08,Potato,24,Haridwar,FAQ,Lakshar,800,600,700,Uttrakhand,Other
+2009-07-08,Potato,24,Haridwar,FAQ,Lakshar,800,600,700,Uttrakhand,Other
+2009-10-08,Potato,24,Haridwar,FAQ,Lakshar,800,600,700,Uttrakhand,Other
+2009-02-09,Potato,24,Haridwar,FAQ,Lakshar,900,700,800,Uttrakhand,Other
+2009-05-09,Potato,24,Haridwar,FAQ,Lakshar,900,700,800,Uttrakhand,Other
+2009-09-09,Potato,24,Haridwar,FAQ,Lakshar,1000,800,900,Uttrakhand,Other
+2009-12-09,Potato,24,Haridwar,FAQ,Lakshar,1000,800,900,Uttrakhand,Other
+2009-03-11,Potato,24,Haridwar,FAQ,Lakshar,800,600,700,Uttrakhand,Other
+2009-02-12,Potato,24,Haridwar,FAQ,Lakshar,800,600,700,Uttrakhand,Other
+2009-01-04,Potato,24,Haridwar,FAQ,Manglaur,350,320,330,Uttrakhand,Other
+2009-07-08,Potato,24,Haridwar,FAQ,Manglaur,380,300,350,Uttrakhand,Other
+2009-01-09,Potato,24,Haridwar,FAQ,Manglaur,450,350,400,Uttrakhand,Other
+2009-07-12,Potato,24,Haridwar,FAQ,Roorkee,800,500,650,Uttrakhand,Other
+2009-05-02,Potato,24,Nanital,FAQ,Haldwani,410,150,302,Uttrakhand,Other
+2009-02-03,Potato,24,Nanital,FAQ,Haldwani,450,230,274,Uttrakhand,Other
+2009-12-03,Potato,24,Nanital,FAQ,Haldwani,350,200,222,Uttrakhand,Other
+2009-07-04,Potato,24,Nanital,FAQ,Haldwani,550,270,314,Uttrakhand,Other
+2009-10-04,Potato,24,Nanital,FAQ,Haldwani,600,300,365,Uttrakhand,Other
+2009-12-05,Potato,24,Nanital,FAQ,Haldwani,550,400,490,Uttrakhand,Other
+2009-03-06,Potato,24,Nanital,FAQ,Haldwani,850,450,793,Uttrakhand,Other
+2009-07-06,Potato,24,Nanital,FAQ,Haldwani,850,600,775,Uttrakhand,Other
+2009-09-06,Potato,24,Nanital,FAQ,Haldwani,900,650,768,Uttrakhand,Other
+2009-10-06,Potato,24,Nanital,FAQ,Haldwani,1000,650,713,Uttrakhand,Other
+2009-11-06,Potato,24,Nanital,FAQ,Haldwani,800,400,528,Uttrakhand,Other
+2009-05-08,Potato,24,Nanital,FAQ,Haldwani,1250,610,655,Uttrakhand,Other
+2009-06-08,Potato,24,Nanital,FAQ,Haldwani,1000,700,733,Uttrakhand,Other
+2009-09-08,Potato,24,Nanital,FAQ,Haldwani,980,720,800,Uttrakhand,Other
+2009-07-09,Potato,24,Nanital,FAQ,Haldwani,1000,700,806,Uttrakhand,Other
+2009-07-10,Potato,24,Nanital,FAQ,Haldwani,900,750,800,Uttrakhand,Other
+2009-08-02,Potato,24,Nanital,FAQ,Ramnagar,250,200,230,Uttrakhand,Other
+2009-03-05,Potato,24,Nanital,FAQ,Ramnagar,700,500,650,Uttrakhand,Other
+2009-08-06,Potato,24,Nanital,FAQ,Ramnagar,700,500,600,Uttrakhand,Other
+2009-01-01,Potato,24,UdhamSinghNagar,FAQ,Khateema,250,250,250,Uttrakhand,Other
+2009-04-02,Potato,24,UdhamSinghNagar,FAQ,Khateema,250,250,250,Uttrakhand,Other
+2009-12-02,Potato,24,UdhamSinghNagar,FAQ,Khateema,200,200,200,Uttrakhand,Other
+2009-04-03,Potato,24,UdhamSinghNagar,FAQ,Khateema,310,310,310,Uttrakhand,Other
+2009-07-03,Potato,24,UdhamSinghNagar,FAQ,Khateema,310,310,310,Uttrakhand,Other
+2009-09-03,Potato,24,UdhamSinghNagar,FAQ,Khateema,310,310,310,Uttrakhand,Other
+2009-04-04,Potato,24,UdhamSinghNagar,FAQ,Khateema,400,300,350,Uttrakhand,Other
+2009-06-04,Potato,24,UdhamSinghNagar,FAQ,Khateema,350,300,325,Uttrakhand,Other
+2009-10-05,Potato,24,UdhamSinghNagar,FAQ,Khateema,440,400,420,Uttrakhand,Other
+2009-01-06,Potato,24,UdhamSinghNagar,FAQ,Khateema,500,400,450,Uttrakhand,Other
+2009-06-06,Potato,24,UdhamSinghNagar,FAQ,Khateema,450,400,425,Uttrakhand,Other
+2009-11-06,Potato,24,UdhamSinghNagar,FAQ,Khateema,500,500,500,Uttrakhand,Other
+2009-01-07,Potato,24,UdhamSinghNagar,FAQ,Khateema,650,500,575,Uttrakhand,Other
+2009-05-08,Potato,24,UdhamSinghNagar,FAQ,Khateema,750,700,725,Uttrakhand,Other
+2009-11-08,Potato,24,UdhamSinghNagar,FAQ,Khateema,800,700,750,Uttrakhand,Other
+2009-02-10,Potato,24,UdhamSinghNagar,FAQ,Khateema,800,800,800,Uttrakhand,Other
+2009-03-10,Potato,24,UdhamSinghNagar,FAQ,Khateema,820,800,810,Uttrakhand,Other
+2009-09-10,Potato,24,UdhamSinghNagar,FAQ,Khateema,850,800,825,Uttrakhand,Other
+2009-04-01,Potato,24,UdhamSinghNagar,FAQ,Kicchha,250,215,250,Uttrakhand,Other
+2009-08-02,Potato,24,UdhamSinghNagar,FAQ,Kicchha,250,240,250,Uttrakhand,Other
+2009-10-02,Potato,24,UdhamSinghNagar,FAQ,Kicchha,300,240,270,Uttrakhand,Other
+2009-11-02,Potato,24,UdhamSinghNagar,FAQ,Kicchha,300,240,270,Uttrakhand,Other
+2009-05-04,Potato,24,UdhamSinghNagar,FAQ,Kicchha,311,275,300,Uttrakhand,Other
+2009-11-06,Potato,24,UdhamSinghNagar,FAQ,Kicchha,500,400,400,Uttrakhand,Other
+2009-12-11,Potato,24,UdhamSinghNagar,FAQ,Kicchha,800,700,800,Uttrakhand,Other
+2009-05-12,Potato,24,UdhamSinghNagar,FAQ,Kicchha,800,600,650,Uttrakhand,Other
+2009-10-05,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,710,690,700,Uttrakhand,Other
+2009-04-07,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,730,710,720,Uttrakhand,Other
+2009-05-07,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,720,700,710,Uttrakhand,Other
+2009-06-08,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,800,750,775,Uttrakhand,Other
+2009-09-08,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,780,760,770,Uttrakhand,Other
+2009-02-09,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,700,600,650,Uttrakhand,Other
+2009-09-09,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,650,600,625,Uttrakhand,Other
+2009-01-11,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,1200,1000,1100,Uttrakhand,Other
+2009-03-11,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,1200,1100,1150,Uttrakhand,Other
+2009-11-11,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,800,700,750,Uttrakhand,Other
+2009-03-12,Potato,24,UdhamSinghNagar,FAQ,Rudrapur,1000,900,950,Uttrakhand,Other
+2009-02-02,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,120,100,110,Uttrakhand,Other
+2009-08-02,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,160,140,150,Uttrakhand,Other
+2009-12-02,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,220,180,211,Uttrakhand,Other
+2009-06-03,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,410,300,360,Uttrakhand,Other
+2009-07-04,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,550,450,500,Uttrakhand,Other
+2009-08-08,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,850,750,800,Uttrakhand,Other
+2009-05-09,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,900,750,800,Uttrakhand,Other
+2009-08-09,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,850,750,800,Uttrakhand,Other
+2009-01-11,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,750,650,700,Uttrakhand,Other
+2009-01-12,Potato,24,UdhamSinghNagar,FAQ,Sitarganj,700,650,687,Uttrakhand,Other
+2009-06-10,Potato,24,Alipurduar,FAQ,Alipurduar,1700,1550,1600,West Bengal,(Red Nanital)
+2009-07-10,Potato,24,Alipurduar,FAQ,Alipurduar,1650,1500,1550,West Bengal,(Red Nanital)
+2009-09-10,Potato,24,Alipurduar,FAQ,Alipurduar,1700,1550,1600,West Bengal,(Red Nanital)
+2009-11-12,Potato,24,Alipurduar,FAQ,Alipurduar,1300,1200,1250,West Bengal,(Red Nanital)
+2009-04-06,Potato,24,Alipurduar,FAQ,Alipurduar,1000,900,950,West Bengal,Jyoti
+2009-09-06,Potato,24,Alipurduar,FAQ,Alipurduar,1000,900,950,West Bengal,Jyoti
+2009-10-06,Potato,24,Alipurduar,FAQ,Alipurduar,1000,900,975,West Bengal,Jyoti
+2009-07-07,Potato,24,Alipurduar,FAQ,Alipurduar,1125,1050,1075,West Bengal,Jyoti
+2009-03-08,Potato,24,Alipurduar,FAQ,Alipurduar,1100,1000,1050,West Bengal,Jyoti
+2009-04-08,Potato,24,Alipurduar,FAQ,Alipurduar,1100,1000,1050,West Bengal,Jyoti
+2009-10-08,Potato,24,Alipurduar,FAQ,Alipurduar,1100,1000,1050,West Bengal,Jyoti
+2009-07-10,Potato,24,Alipurduar,FAQ,Alipurduar,1500,1350,1400,West Bengal,Jyoti
+2009-09-11,Potato,24,Alipurduar,FAQ,Alipurduar,1700,1600,1650,West Bengal,Jyoti
+2009-10-11,Potato,24,Alipurduar,FAQ,Alipurduar,1450,1375,1400,West Bengal,Jyoti
+2009-12-06,Potato,24,Alipurduar,FAQ,Alipurduar,1200,1050,1100,West Bengal,Red
+2009-10-08,Potato,24,Alipurduar,FAQ,Alipurduar,1250,1150,1200,West Bengal,Red
+2009-11-08,Potato,24,Alipurduar,FAQ,Alipurduar,1250,1150,1200,West Bengal,Red
+2009-12-08,Potato,24,Alipurduar,FAQ,Alipurduar,1250,1150,1200,West Bengal,Red
+2009-02-02,Potato,24,Bankura,FAQ,Bankura Sadar,420,390,400,West Bengal,Jyoti
+2009-12-03,Potato,24,Bankura,FAQ,Bankura Sadar,630,600,620,West Bengal,Jyoti
+2009-03-04,Potato,24,Bankura,FAQ,Bankura Sadar,850,820,840,West Bengal,Jyoti
+2009-01-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,900,700,800,Andhra Pradesh,With Seed 1Variety
+2009-11-03,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,1400,1000,1200,Andhra Pradesh,With Seed 1Variety
+2009-12-03,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,1500,800,1000,Andhra Pradesh,With Seed 1Variety
+2009-04-05,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,1700,800,1000,Andhra Pradesh,With Seed 1Variety
+2009-03-08,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2300,2100,2200,Andhra Pradesh,Non A/c Fine
+2009-09-02,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2700,2100,2400,Andhra Pradesh,Non A/c Flower
+2009-01-03,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2600,2200,2400,Andhra Pradesh,Non A/c Flower
+2009-05-03,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2500,2200,2400,Andhra Pradesh,Non A/c Flower
+2009-09-03,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2500,2100,2300,Andhra Pradesh,Non A/c Flower
+2009-10-04,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2500,2300,2400,Andhra Pradesh,Non A/c Flower
+2009-08-05,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2500,2200,2400,Andhra Pradesh,Non A/c Flower
+2009-08-06,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2400,2100,2200,Andhra Pradesh,Non A/c Flower
+2009-02-08,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2300,2100,2200,Andhra Pradesh,Non A/c Flower
+2009-05-08,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2300,2100,2200,Andhra Pradesh,Non A/c Flower
+2009-10-08,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2300,2100,2200,Andhra Pradesh,Non A/c Flower
+2009-11-08,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2300,2100,2200,Andhra Pradesh,Non A/c Flower
+2009-12-12,Tamarind Fruit,261,Anantapur,FAQ,Kalyandurg,2600,2300,2500,Andhra Pradesh,Non A/c Flower
+2009-07-01,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2800,1800,2000,Andhra Pradesh,Flower A/c
+2009-01-03,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2200,1600,1800,Andhra Pradesh,Flower A/c
+2009-02-03,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2200,1600,1800,Andhra Pradesh,Flower A/c
+2009-06-01,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,5800,3800,4900,Andhra Pradesh,Karpuli A/c Fine
+2009-07-01,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,5800,3400,4900,Andhra Pradesh,Karpuli A/c Fine
+2009-11-02,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,5700,3500,4900,Andhra Pradesh,Karpuli A/c Fine
+2009-04-03,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,4500,3500,4000,Andhra Pradesh,Karpuli A/c Fine
+2009-05-03,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,4500,3500,4000,Andhra Pradesh,Karpuli A/c Fine
+2009-12-03,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,5700,3500,4800,Andhra Pradesh,Karpuli A/c Fine
+2009-11-04,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,4500,3500,4000,Andhra Pradesh,Non A/c Fine
+2009-01-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2700,2500,2600,Andhra Pradesh,Non A/c Fine
+2009-02-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2700,2500,2600,Andhra Pradesh,Non A/c Fine
+2009-06-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2700,2500,2600,Andhra Pradesh,Non A/c Fine
+2009-07-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2700,2500,2600,Andhra Pradesh,Non A/c Fine
+2009-10-04,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2500,1600,2000,Andhra Pradesh,Non A/c Flower
+2009-12-04,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2500,1600,2000,Andhra Pradesh,Non A/c Flower
+2009-01-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1900,1500,1700,Andhra Pradesh,Non A/c Flower
+2009-04-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1900,1500,1700,Andhra Pradesh,Non A/c Flower
+2009-09-05,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1900,1500,1700,Andhra Pradesh,Non A/c Flower
+2009-11-06,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1900,1500,1700,Andhra Pradesh,Non A/c Flower
+2009-12-06,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1900,1500,1700,Andhra Pradesh,Non A/c Flower
+2009-03-07,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1960,1630,1740,Andhra Pradesh,Non A/c Flower
+2009-01-08,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,1980,1740,1840,Andhra Pradesh,Non A/c Flower
+2009-02-12,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2600,2200,2400,Andhra Pradesh,Non A/c Flower
+2009-12-12,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2800,2450,2600,Andhra Pradesh,Non A/c Flower
+2009-02-11,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2250,2150,2200,Andhra Pradesh,Tamarind Fruit
+2009-04-11,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,3100,2500,2800,Andhra Pradesh,Tamarind Fruit
+2009-09-11,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,3050,2550,2800,Andhra Pradesh,Tamarind Fruit
+2009-10-11,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,3100,2600,2800,Andhra Pradesh,Tamarind Fruit
+2009-09-12,Tamarind Fruit,261,Anantapur,FAQ,Madakasira,2900,2500,2700,Andhra Pradesh,Tamarind Fruit
+2009-01-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3850,3200,3525,Andhra Pradesh,Chapathi
+2009-02-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3850,3200,3525,Andhra Pradesh,Chapathi
+2009-05-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3200,3000,3100,Andhra Pradesh,Chapathi
+2009-07-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3200,3000,3100,Andhra Pradesh,Chapathi
+2009-08-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3200,3000,3100,Andhra Pradesh,Chapathi
+2009-12-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,5200,4410,4805,Andhra Pradesh,Non A/c Fine
+2009-01-04,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,4000,3200,3600,Andhra Pradesh,Non A/c Fine
+2009-01-05,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3000,2500,2750,Andhra Pradesh,Non A/c Fine
+2009-07-05,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3000,2500,2750,Andhra Pradesh,Non A/c Fine
+2009-08-01,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3820,2200,3010,Andhra Pradesh,Non A/c Flower
+2009-09-01,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,3820,2200,3010,Andhra Pradesh,Non A/c Flower
+2009-02-03,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2450,1600,2075,Andhra Pradesh,Non A/c Flower
+2009-02-04,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2060,1250,1655,Andhra Pradesh,Non A/c Flower
+2009-05-04,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2060,1250,1655,Andhra Pradesh,Non A/c Flower
+2009-09-04,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2010,1000,1505,Andhra Pradesh,Non A/c Flower
+2009-01-05,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,1600,1200,1400,Andhra Pradesh,Non A/c Flower
+2009-07-05,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,1600,1200,1400,Andhra Pradesh,Non A/c Flower
+2009-12-05,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,1600,1200,1400,Andhra Pradesh,Non A/c Flower
+2009-03-11,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2100,1800,1950,Andhra Pradesh,Non A/c Flower
+2009-04-11,Tamarind Fruit,261,Anantapur,FAQ,Rayadurg,2100,1800,1950,Andhra Pradesh,Non A/c Flower
+2009-12-03,Tamarind Fruit,261,Vijayanagaram,FAQ,Kurupam,900,850,900,Andhra Pradesh,With Seed 1Variety
+2009-01-04,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1100,1000,1050,Andhra Pradesh,Tamarind Fruit
+2009-03-04,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1100,1000,1050,Andhra Pradesh,Tamarind Fruit
+2009-04-04,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1100,1000,1050,Andhra Pradesh,Tamarind Fruit
+2009-06-04,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1100,1000,1050,Andhra Pradesh,Tamarind Fruit
+2009-01-05,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1100,1000,1050,Andhra Pradesh,Tamarind Fruit
+2009-01-06,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-10-06,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-04-07,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-10-07,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-01-08,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-07-08,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-11-08,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1380,1400,Andhra Pradesh,Tamarind Fruit
+2009-08-09,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1400,1430,Andhra Pradesh,Tamarind Fruit
+2009-01-10,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1400,1430,Andhra Pradesh,Tamarind Fruit
+2009-10-11,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1400,1430,Andhra Pradesh,Tamarind Fruit
+2009-03-12,Tamarind Fruit,261,Vijayanagaram,FAQ,Saluru,1450,1400,1430,Andhra Pradesh,Tamarind Fruit
+2009-06-04,Tamarind Fruit,261,Bastar,FAQ,Jagdalpur,1611,1411,1506,Chattisgarh,Tamarind Fruit
+2009-04-05,Tamarind Fruit,261,Bastar,FAQ,Jagdalpur,1300,1300,1300,Chattisgarh,Tamarind Fruit
+2009-04-06,Tamarind Fruit,261,Bastar,FAQ,Jagdalpur,1350,1300,1325,Chattisgarh,Tamarind Fruit
+2009-04-04,Tamarind Fruit,261,Dhamtari,FAQ,Nagari,1500,1300,1300,Chattisgarh,Tamarind Fruit
+2009-11-04,Tamarind Fruit,261,Dhamtari,FAQ,Nagari,1300,1300,1300,Chattisgarh,Tamarind Fruit
+2009-08-03,Tamarind Fruit,261,Kondagaon,FAQ,Keshkal,1600,1550,1550,Chattisgarh,Other
+2009-08-03,Tamarind Fruit,261,Kondagaon,FAQ,Kondagoan,800,700,750,Chattisgarh,With Seed 1Variety
+2009-02-02,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3000,2000,3000,Gujarat,Other
+2009-03-02,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3000,2000,3000,Gujarat,Other
+2009-05-02,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3000,2000,2500,Gujarat,Other
+2009-05-03,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2800,2000,2500,Gujarat,Other
+2009-07-03,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,2000,2300,Gujarat,Other
+2009-09-03,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,2000,2300,Gujarat,Other
+2009-12-03,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,2000,2400,Gujarat,Other
+2009-07-04,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3000,1500,2800,Gujarat,Other
+2009-01-05,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,1500,2200,Gujarat,Other
+2009-04-05,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,1500,2200,Gujarat,Other
+2009-06-05,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,1500,2200,Gujarat,Other
+2009-04-06,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3000,2000,2800,Gujarat,Other
+2009-05-09,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3500,2200,3000,Gujarat,Other
+2009-07-09,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3500,2200,3000,Gujarat,Other
+2009-11-09,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3500,2200,3000,Gujarat,Other
+2009-01-10,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3500,2200,3000,Gujarat,Other
+2009-05-10,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,3500,2200,3000,Gujarat,Other
+2009-01-12,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2700,2000,2500,Gujarat,Other
+2009-08-12,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,2000,2300,Gujarat,Other
+2009-11-12,Tamarind Fruit,261,Vadodara(Baroda),FAQ,Vadodara,2500,2000,2300,Gujarat,Other
+2009-09-01,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4500,3000,4000,Karnataka,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,3900,3400,3600,Karnataka,Tamarind Fruit
+2009-04-04,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4000,2500,3800,Karnataka,Tamarind Fruit
+2009-08-04,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4000,2500,3800,Karnataka,Tamarind Fruit
+2009-09-04,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4000,2500,3800,Karnataka,Tamarind Fruit
+2009-08-05,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4200,3000,3900,Karnataka,Tamarind Fruit
+2009-01-06,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4200,3000,3900,Karnataka,Tamarind Fruit
+2009-05-06,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4200,3000,3900,Karnataka,Tamarind Fruit
+2009-10-06,Tamarind Fruit,261,Bangalore,Medium,Bangalore,4200,3000,3900,Karnataka,Tamarind Fruit
+2009-07-07,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,4500,2800,3900,Karnataka,Tamarind Fruit
+2009-03-10,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-07-10,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-12-11,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-01-12,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-02-12,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-05-12,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-09-12,Tamarind Fruit,261,Bangalore,FAQ,Bangalore,5000,2800,3900,Karnataka,Tamarind Fruit
+2009-07-02,Tamarind Fruit,261,Bellary,FAQ,Hospet,3719,1906,3000,Karnataka,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Chamrajnagar,FAQ,Chamaraj Nagar,600,300,500,Karnataka,Tamarind Fruit
+2009-09-03,Tamarind Fruit,261,Chikmagalur,FAQ,Tarikere,1600,1300,1500,Karnataka,Tamarind Fruit
+2009-09-04,Tamarind Fruit,261,Chikmagalur,FAQ,Tarikere,1300,1100,1200,Karnataka,Tamarind Fruit
+2009-06-05,Tamarind Fruit,261,Hassan,Medium,Hassan,2500,1500,2000,Karnataka,Tamarind Fruit
+2009-03-06,Tamarind Fruit,261,Hassan,Medium,Hassan,2000,1200,1600,Karnataka,Tamarind Fruit
+2009-08-07,Tamarind Fruit,261,Hassan,Medium,Hassan,3000,1500,2250,Karnataka,Tamarind Fruit
+2009-07-11,Tamarind Fruit,261,Hassan,FAQ,Hassan,3500,2000,2044,Karnataka,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Kolar,FAQ,Chintamani,1100,800,900,Karnataka,Tamarind Fruit
+2009-10-03,Tamarind Fruit,261,Mandya,Medium,Srirangapattana,450,350,400,Karnataka,Tamarind Fruit
+2009-03-02,Tamarind Fruit,261,Mysore,FAQ,Mysore (Bandipalya),6020,2150,3950,Karnataka,Tamarind Fruit
+2009-07-02,Tamarind Fruit,261,Mysore,FAQ,Mysore (Bandipalya),5350,1670,3340,Karnataka,Tamarind Fruit
+2009-11-02,Tamarind Fruit,261,Mysore,FAQ,Mysore (Bandipalya),5350,1070,3800,Karnataka,Tamarind Fruit
+2009-05-03,Tamarind Fruit,261,Mysore,FAQ,Mysore (Bandipalya),4810,1420,3130,Karnataka,Tamarind Fruit
+2009-06-05,Tamarind Fruit,261,Mysore,FAQ,Mysore (Bandipalya),3040,1130,2340,Karnataka,Tamarind Fruit
+2009-04-04,Tamarind Fruit,261,Shimoga,FAQ,Shimoga,3000,2000,2800,Karnataka,Tamarind Fruit
+2009-06-04,Tamarind Fruit,261,Shimoga,FAQ,Shimoga,3000,2000,2800,Karnataka,Tamarind Fruit
+2009-06-05,Tamarind Fruit,261,Shimoga,FAQ,Shimoga,3000,2000,2500,Karnataka,Tamarind Fruit
+2009-08-05,Tamarind Fruit,261,Shimoga,FAQ,Shimoga,3000,2000,2800,Karnataka,Tamarind Fruit
+2009-10-07,Tamarind Fruit,261,Shimoga,FAQ,Shimoga,3500,3000,3400,Karnataka,Tamarind Fruit
+2009-10-02,Tamarind Fruit,261,Tumkur,FAQ,Sira,2500,1500,1855,Karnataka,Tamarind Fruit
+2009-11-02,Tamarind Fruit,261,Tumkur,FAQ,Sira,2000,1000,1018,Karnataka,Tamarind Fruit
+2009-12-01,Tamarind Fruit,261,Tumkur,FAQ,Tumkur,7800,3000,5500,Karnataka,Tamarind Fruit
+2009-05-03,Tamarind Fruit,261,Tumkur,FAQ,Tumkur,8304,3200,4200,Karnataka,Tamarind Fruit
+2009-09-03,Tamarind Fruit,261,Tumkur,FAQ,Tumkur,7000,3200,4000,Karnataka,Tamarind Fruit
+2009-11-06,Tamarind Fruit,261,Tumkur,FAQ,Tumkur,3800,1250,2800,Karnataka,Tamarind Fruit
+2009-02-04,Tamarind Fruit,261,Chhindwara,FAQ,Chhindwara,2040,1400,1720,Madhya Pradesh,Other
+2009-04-04,Tamarind Fruit,261,Chhindwara,FAQ,Chhindwara,2025,1500,1650,Madhya Pradesh,Other
+2009-11-04,Tamarind Fruit,261,Chhindwara,FAQ,Chhindwara,2050,1650,1650,Madhya Pradesh,Other
+2009-07-05,Tamarind Fruit,261,Chhindwara,FAQ,Chhindwara,1700,1600,1650,Madhya Pradesh,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Dewas,FAQ,Dewas,850,700,800,Madhya Pradesh,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Shajapur,FAQ,Shujalpur,820,820,820,Madhya Pradesh,Tamarind Fruit
+2009-12-03,Tamarind Fruit,261,Vidisha,FAQ,Ganjbasoda,595,595,595,Madhya Pradesh,Tamarind Fruit
+2009-07-03,Tamarind Fruit,261,Ahmednagar,FAQ,Ahmednagar,3500,2701,3100,Maharashtra,Other
+2009-01-04,Tamarind Fruit,261,Ahmednagar,FAQ,Ahmednagar,3700,2400,3050,Maharashtra,Other
+2009-11-04,Tamarind Fruit,261,Ahmednagar,FAQ,Ahmednagar,3650,2350,3000,Maharashtra,Other
+2009-08-06,Tamarind Fruit,261,Ahmednagar,FAQ,Ahmednagar,2250,2001,2125,Maharashtra,Other
+2009-11-12,Tamarind Fruit,261,Ahmednagar,FAQ,Ahmednagar,3000,2500,2750,Maharashtra,Other
+2009-08-04,Tamarind Fruit,261,Beed,FAQ,Kada,2251,750,2100,Maharashtra,Other
+2009-06-03,Tamarind Fruit,261,Beed,FAQ,Kaij,2000,1900,1900,Maharashtra,Other
+2009-11-04,Tamarind Fruit,261,Dharashiv(Usmanabad),FAQ,Kalamb (Dharashiv),2151,2000,2151,Maharashtra,Other
+2009-04-05,Tamarind Fruit,261,Dharashiv(Usmanabad),FAQ,Kalamb (Dharashiv),1741,1650,1650,Maharashtra,Other
+2009-01-04,Tamarind Fruit,261,Gondiya,FAQ,Gondiya,3000,1050,2000,Maharashtra,Other
+2009-02-04,Tamarind Fruit,261,Latur,FAQ,Latur,2681,2100,2500,Maharashtra,Other
+2009-11-07,Tamarind Fruit,261,Latur,FAQ,Latur,1800,1600,1750,Maharashtra,Other
+2009-03-03,Tamarind Fruit,261,Latur,FAQ,Udgir,2900,2550,2725,Maharashtra,Other
+2009-04-04,Tamarind Fruit,261,Latur,FAQ,Udgir,3050,2400,2725,Maharashtra,Other
+2009-05-05,Tamarind Fruit,261,Latur,FAQ,Udgir,2700,2400,2500,Maharashtra,Other
+2009-01-07,Tamarind Fruit,261,Latur,FAQ,Udgir,2300,2100,2200,Maharashtra,Other
+2009-04-07,Tamarind Fruit,261,Latur,FAQ,Udgir,2300,2100,2250,Maharashtra,Other
+2009-05-07,Tamarind Fruit,261,Latur,FAQ,Udgir,2850,2100,2225,Maharashtra,Other
+2009-07-07,Tamarind Fruit,261,Latur,FAQ,Udgir,2300,2100,2200,Maharashtra,Other
+2009-02-01,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4500,2500,3500,Maharashtra,Other
+2009-06-03,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,3000,2500,2750,Maharashtra,Other
+2009-10-03,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,3000,2500,2750,Maharashtra,Other
+2009-06-06,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,3200,2600,2900,Maharashtra,Other
+2009-11-07,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,3200,2600,2900,Maharashtra,Other
+2009-01-08,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,3000,2400,2700,Maharashtra,Other
+2009-05-09,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4000,2500,3250,Maharashtra,Other
+2009-12-09,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4000,2500,3250,Maharashtra,Other
+2009-09-10,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,5000,3000,4000,Maharashtra,Other
+2009-06-11,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4500,2500,3500,Maharashtra,Other
+2009-07-11,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4500,2500,3500,Maharashtra,Other
+2009-12-12,Tamarind Fruit,261,Mumbai,FAQ,Mumbai,4500,2500,3500,Maharashtra,Other
+2009-02-04,Tamarind Fruit,261,Nanded,FAQ,Loha,2221,1900,2170,Maharashtra,Other
+2009-08-04,Tamarind Fruit,261,Nanded,FAQ,Loha,2071,1950,2000,Maharashtra,Other
+2009-08-05,Tamarind Fruit,261,Nanded,FAQ,Loha,1881,1600,1760,Maharashtra,Other
+2009-06-03,Tamarind Fruit,261,Nashik,FAQ,Devala,825,825,825,Maharashtra,Other
+2009-08-04,Tamarind Fruit,261,Nashik,FAQ,Devala,830,800,825,Maharashtra,Other
+2009-06-03,Tamarind Fruit,261,Nashik,FAQ,Kalvan,801,800,800,Maharashtra,Other
+2009-11-04,Tamarind Fruit,261,Nashik,FAQ,Kalvan,851,851,851,Maharashtra,Other
+2009-12-02,Tamarind Fruit,261,Pune,FAQ,Shirur,825,801,801,Maharashtra,Other
+2009-02-03,Tamarind Fruit,261,Pune,FAQ,Shirur,750,750,750,Maharashtra,Other
+2009-11-02,Tamarind Fruit,261,Sangli,FAQ,Tasgaon,3000,2701,2800,Maharashtra,Other
+2009-04-03,Tamarind Fruit,261,Sangli,FAQ,Tasgaon,2600,1950,2300,Maharashtra,Other
+2009-05-05,Tamarind Fruit,261,Sangli,FAQ,Tasgaon,2100,1700,1900,Maharashtra,Other
+2009-04-02,Tamarind Fruit,261,Sholapur,FAQ,Barshi,3100,3100,3100,Maharashtra,Other
+2009-03-02,Tamarind Fruit,261,Gajapati,FAQ,Parlakhemundi,1400,1200,1400,Odisha,Tamarind Fruit
+2009-08-04,Tamarind Fruit,261,Nowarangpur,FAQ,Nawarangpur,1000,1000,1000,Odisha,With Seed 2Variety
+2009-06-02,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Other
+2009-05-05,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-04-06,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1500,1450,1475,Tamil Nadu,Seedless 2Variety
+2009-11-06,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1500,1400,1450,Tamil Nadu,Seedless 2Variety
+2009-03-07,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-06-07,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-04-08,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-05-08,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-02-09,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1530,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-08-12,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-09-12,Tamarind Fruit,261,Dharmapuri,FAQ,Papparapatti,1550,1450,1500,Tamil Nadu,Seedless 2Variety
+2009-06-03,Tamarind Fruit,261,Dindigul,FAQ,Gopalpatti,3200,3000,3110,Tamil Nadu,Old Medium
+2009-12-03,Tamarind Fruit,261,Dindigul,FAQ,Gopalpatti,3200,3000,3110,Tamil Nadu,Old Medium
+2009-01-10,Tamarind Fruit,261,Dindigul,FAQ,Gopalpatti,1100,1000,1060,Tamil Nadu,Other
+2009-03-06,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1200,1000,1100,Tamil Nadu,With Seed 2Variety
+2009-06-07,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1200,1000,1100,Tamil Nadu,With Seed 2Variety
+2009-04-08,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1200,1000,1100,Tamil Nadu,With Seed 2Variety
+2009-05-10,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1200,1000,1100,Tamil Nadu,With Seed 2Variety
+2009-09-10,Garlic,25,Bareilly,FAQ,Bareilly,0,0,3460,Uttar Pradesh,Garlic
+2009-11-10,Garlic,25,Bareilly,FAQ,Bareilly,0,0,3425,Uttar Pradesh,Garlic
+2009-09-11,Garlic,25,Bareilly,FAQ,Bareilly,0,0,4025,Uttar Pradesh,Garlic
+2009-03-12,Garlic,25,Bareilly,FAQ,Bareilly,0,0,3950,Uttar Pradesh,Garlic
+2009-07-12,Garlic,25,Bareilly,FAQ,Bareilly,0,0,4250,Uttar Pradesh,Garlic
+2009-10-12,Garlic,25,Bareilly,FAQ,Bareilly,0,0,4350,Uttar Pradesh,Garlic
+2009-12-12,Garlic,25,Bareilly,FAQ,Bareilly,0,0,4450,Uttar Pradesh,Garlic
+2009-11-04,Garlic,25,Basti,FAQ,Basti,1900,1700,1800,Uttar Pradesh,Other
+2009-01-05,Garlic,25,Basti,FAQ,Basti,2800,2600,2700,Uttar Pradesh,Other
+2009-03-05,Garlic,25,Basti,FAQ,Basti,2800,2600,2700,Uttar Pradesh,Other
+2009-10-06,Garlic,25,Basti,FAQ,Basti,2900,2850,2875,Uttar Pradesh,Other
+2009-10-07,Garlic,25,Basti,FAQ,Basti,2950,2850,2900,Uttar Pradesh,Other
+2009-02-08,Garlic,25,Basti,FAQ,Basti,2625,2575,2600,Uttar Pradesh,Other
+2009-01-09,Garlic,25,Basti,FAQ,Basti,3900,3800,3850,Uttar Pradesh,Other
+2009-04-09,Garlic,25,Basti,FAQ,Basti,3900,3800,3850,Uttar Pradesh,Other
+2009-05-09,Garlic,25,Basti,FAQ,Basti,3900,3800,3850,Uttar Pradesh,Other
+2009-06-09,Garlic,25,Basti,FAQ,Basti,4000,3800,3900,Uttar Pradesh,Other
+2009-03-10,Garlic,25,Basti,FAQ,Basti,3950,3900,3925,Uttar Pradesh,Other
+2009-07-10,Garlic,25,Basti,FAQ,Basti,4000,3900,3950,Uttar Pradesh,Other
+2009-08-10,Garlic,25,Basti,FAQ,Basti,4000,3900,3950,Uttar Pradesh,Other
+2009-07-11,Garlic,25,Basti,FAQ,Basti,4150,4050,4100,Uttar Pradesh,Other
+2009-10-11,Garlic,25,Basti,FAQ,Basti,4350,4250,4300,Uttar Pradesh,Other
+2009-12-11,Garlic,25,Basti,FAQ,Basti,4350,4250,4300,Uttar Pradesh,Other
+2009-04-12,Garlic,25,Basti,FAQ,Basti,4450,4350,4400,Uttar Pradesh,Other
+2009-03-05,Garlic,25,Etah,FAQ,Aliganj,1250,1200,1240,Uttar Pradesh,Other
+2009-09-05,Garlic,25,Etah,FAQ,Aliganj,1400,1200,1200,Uttar Pradesh,Other
+2009-05-06,Garlic,25,Etah,FAQ,Aliganj,1850,1650,1700,Uttar Pradesh,Other
+2009-03-04,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,670,Uttar Pradesh,Garlic
+2009-08-04,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,680,Uttar Pradesh,Garlic
+2009-10-04,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,685,Uttar Pradesh,Garlic
+2009-02-05,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,1460,Uttar Pradesh,Garlic
+2009-03-08,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3260,Uttar Pradesh,Garlic
+2009-03-09,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3950,Uttar Pradesh,Garlic
+2009-04-09,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3950,Uttar Pradesh,Garlic
+2009-03-10,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,4140,Uttar Pradesh,Garlic
+2009-07-10,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,4145,Uttar Pradesh,Garlic
+2009-09-10,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3850,Uttar Pradesh,Garlic
+2009-02-11,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3850,Uttar Pradesh,Garlic
+2009-06-11,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,3800,Uttar Pradesh,Garlic
+2009-05-12,Garlic,25,Gorakhpur,FAQ,Gorakhpur,0,0,4250,Uttar Pradesh,Garlic
+2009-03-05,Garlic,25,Jhansi,FAQ,Jhansi,0,0,1475,Uttar Pradesh,Other
+2009-06-05,Garlic,25,Jhansi,FAQ,Jhansi,0,0,1475,Uttar Pradesh,Other
+2009-09-05,Garlic,25,Jhansi,FAQ,Jhansi,0,0,1300,Uttar Pradesh,Other
+2009-11-06,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2375,Uttar Pradesh,Other
+2009-01-07,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2620,Uttar Pradesh,Other
+2009-04-07,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2625,Uttar Pradesh,Other
+2009-06-08,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2760,Uttar Pradesh,Other
+2009-10-08,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2800,Uttar Pradesh,Other
+2009-11-08,Garlic,25,Jhansi,FAQ,Jhansi,0,0,2800,Uttar Pradesh,Other
+2009-06-09,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3400,Uttar Pradesh,Other
+2009-11-09,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3500,Uttar Pradesh,Other
+2009-03-10,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3550,Uttar Pradesh,Other
+2009-01-11,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3600,Uttar Pradesh,Other
+2009-02-11,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3600,Uttar Pradesh,Other
+2009-08-12,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3700,Uttar Pradesh,Other
+2009-09-12,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3700,Uttar Pradesh,Other
+2009-11-12,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3700,Uttar Pradesh,Other
+2009-12-12,Garlic,25,Jhansi,FAQ,Jhansi,0,0,3700,Uttar Pradesh,Other
+2009-01-05,Garlic,25,Mainpuri,FAQ,Ghiraur,1400,1200,1250,Uttar Pradesh,Other
+2009-04-05,Garlic,25,Mainpuri,FAQ,Ghiraur,1450,1300,1300,Uttar Pradesh,Other
+2009-08-05,Garlic,25,Mainpuri,FAQ,Ghiraur,1400,1250,1300,Uttar Pradesh,Other
+2009-03-07,Garlic,25,Mainpuri,FAQ,Ghiraur,2150,2000,2100,Uttar Pradesh,Other
+2009-09-07,Garlic,25,Mainpuri,FAQ,Ghiraur,2250,2150,2200,Uttar Pradesh,Other
+2009-03-09,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2150,2250,Uttar Pradesh,Other
+2009-11-09,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2100,2250,Uttar Pradesh,Other
+2009-07-10,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2200,2400,Uttar Pradesh,Other
+2009-03-12,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2200,2500,Uttar Pradesh,Other
+2009-08-12,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2200,2500,Uttar Pradesh,Other
+2009-09-12,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2200,2500,Uttar Pradesh,Other
+2009-10-12,Garlic,25,Mainpuri,FAQ,Ghiraur,3000,2100,2400,Uttar Pradesh,Other
+2009-09-08,Garlic,25,Pratapgarh,FAQ,Pratapgarh,5481,1654,3665,Uttar Pradesh,Other
+2009-02-07,Garlic,25,Siddharth Nagar,FAQ,Sahiyapur,1250,0,1200,Uttar Pradesh,Other
+2009-05-09,Garlic,25,Siddharth Nagar,FAQ,Sahiyapur,3200,0,3150,Uttar Pradesh,Other
+2009-07-05,Garlic,25,Unnao,FAQ,Unnao,0,0,1950,Uttar Pradesh,Desi
+2009-04-06,Garlic,25,Unnao,FAQ,Unnao,0,0,1000,Uttar Pradesh,Desi
+2009-03-05,Garlic,25,Varanasi,FAQ,Varanasi,0,0,1900,Uttar Pradesh,Other
+2009-04-05,Garlic,25,Varanasi,FAQ,Varanasi,0,0,1950,Uttar Pradesh,Other
+2009-10-05,Garlic,25,Varanasi,FAQ,Varanasi,0,0,2100,Uttar Pradesh,Other
+2009-02-07,Garlic,25,Varanasi,FAQ,Varanasi,3100,2980,3000,Uttar Pradesh,Other
+2009-04-07,Garlic,25,Varanasi,FAQ,Varanasi,3150,3080,3100,Uttar Pradesh,Other
+2009-10-07,Garlic,25,Varanasi,FAQ,Varanasi,3150,3050,3100,Uttar Pradesh,Other
+2009-11-07,Garlic,25,Varanasi,FAQ,Varanasi,3150,3090,3100,Uttar Pradesh,Other
+2009-12-07,Garlic,25,Varanasi,FAQ,Varanasi,3150,3090,3100,Uttar Pradesh,Other
+2009-02-08,Garlic,25,Varanasi,FAQ,Varanasi,0,0,3400,Uttar Pradesh,Other
+2009-09-08,Garlic,25,Varanasi,FAQ,Varanasi,0,0,3500,Uttar Pradesh,Other
+2009-04-10,Garlic,25,Varanasi,FAQ,Varanasi,0,0,3800,Uttar Pradesh,Other
+2009-08-10,Garlic,25,Varanasi,FAQ,Varanasi,0,0,3800,Uttar Pradesh,Other
+2009-01-11,Garlic,25,Varanasi,FAQ,Varanasi,0,0,4100,Uttar Pradesh,Other
+2009-08-11,Garlic,25,Varanasi,FAQ,Varanasi,0,0,4100,Uttar Pradesh,Other
+2009-07-12,Garlic,25,Varanasi,FAQ,Varanasi,0,0,4150,Uttar Pradesh,Other
+2009-07-12,Garlic,25,Haridwar,FAQ,Roorkee,2300,1700,2150,Uttrakhand,Other
+2009-10-06,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),3625,3500,3500,West Bengal,Other
+2009-12-10,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),4750,4500,4650,West Bengal,Other
+2009-04-11,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5250,5000,5250,West Bengal,Other
+2009-05-11,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5250,5000,5250,West Bengal,Other
+2009-06-11,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5250,5000,5250,West Bengal,Other
+2009-09-11,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5250,5000,5250,West Bengal,Other
+2009-11-11,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5250,5000,5250,West Bengal,Other
+2009-09-12,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),6500,6250,6250,West Bengal,Other
+2009-11-12,Garlic,25,Kolkata,FAQ,Bara Bazar (Posta Bazar),5500,5250,5500,West Bengal,Other
+2009-05-11,Garlic,25,Malda,FAQ,Samsi,4800,4200,4500,West Bengal,Garlic
+2009-12-11,Garlic,25,Malda,FAQ,Samsi,5200,4800,5000,West Bengal,Garlic
+2009-05-08,Garlic,25,Medinipur(W),FAQ,Midnapore Sadar,5500,4800,5200,West Bengal,Other
+2009-08-09,Garlic,25,Medinipur(W),FAQ,Midnapore Sadar,5400,5200,5300,West Bengal,Other
+2009-11-11,Garlic,25,Medinipur(W),FAQ,Midnapore Sadar,5200,4800,5000,West Bengal,Other
+2009-05-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,1800,2400,Andhra Pradesh,Flower A/c
+2009-08-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,1800,2400,Andhra Pradesh,Flower A/c
+2009-11-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,1800,2400,Andhra Pradesh,Flower A/c
+2009-04-07,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,2200,2600,Andhra Pradesh,Flower A/c
+2009-09-08,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2500,1800,2000,Andhra Pradesh,Flower A/c
+2009-12-08,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2700,2000,2500,Andhra Pradesh,Flower A/c
+2009-08-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3600,2000,2400,Andhra Pradesh,Flower A/c
+2009-02-11,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3300,2000,2100,Andhra Pradesh,Flower A/c
+2009-08-11,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3300,2000,2300,Andhra Pradesh,Flower A/c
+2009-05-12,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3200,1900,2550,Andhra Pradesh,Flower A/c
+2009-10-12,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2800,1400,2100,Andhra Pradesh,Flower A/c
+2009-11-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6000,4200,5600,Andhra Pradesh,Karpuli A/c Fine
+2009-12-01,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6000,4200,5600,Andhra Pradesh,Karpuli A/c Fine
+2009-11-07,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,5800,3200,4500,Andhra Pradesh,Karpuli A/c Fine
+2009-09-08,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,5400,3200,4000,Andhra Pradesh,Karpuli A/c Fine
+2009-02-09,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6300,3200,5700,Andhra Pradesh,Karpuli A/c Fine
+2009-03-09,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6300,3200,5700,Andhra Pradesh,Karpuli A/c Fine
+2009-01-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3100,4800,Andhra Pradesh,Karpuli A/c Fine
+2009-04-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3100,4800,Andhra Pradesh,Karpuli A/c Fine
+2009-07-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6400,3200,4700,Andhra Pradesh,Karpuli A/c Fine
+2009-10-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3800,5200,Andhra Pradesh,Karpuli A/c Fine
+2009-11-10,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3800,5200,Andhra Pradesh,Karpuli A/c Fine
+2009-09-11,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6400,4000,5000,Andhra Pradesh,Karpuli A/c Fine
+2009-05-12,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3900,5200,Andhra Pradesh,Karpuli A/c Fine
+2009-06-12,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6500,3900,5200,Andhra Pradesh,Karpuli A/c Fine
+2009-11-12,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,5600,3200,4400,Andhra Pradesh,Karpuli A/c Fine
+2009-02-02,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,7700,5500,6600,Andhra Pradesh,Non A/c Fine
+2009-08-02,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6200,4200,5400,Andhra Pradesh,Non A/c Fine
+2009-01-03,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6800,4600,5200,Andhra Pradesh,Non A/c Fine
+2009-04-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6300,4500,5700,Andhra Pradesh,Non A/c Fine
+2009-05-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6300,4500,5700,Andhra Pradesh,Non A/c Fine
+2009-12-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,6200,4100,5300,Andhra Pradesh,Non A/c Fine
+2009-07-05,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,5100,3600,4300,Andhra Pradesh,Non A/c Fine
+2009-11-06,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,4000,2800,3500,Andhra Pradesh,Non A/c Fine
+2009-01-02,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3100,2100,2500,Andhra Pradesh,Non A/c Flower
+2009-02-02,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3200,2100,2650,Andhra Pradesh,Non A/c Flower
+2009-12-02,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3600,1900,2800,Andhra Pradesh,Non A/c Flower
+2009-01-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,2000,2400,Andhra Pradesh,Non A/c Flower
+2009-04-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3000,1800,2300,Andhra Pradesh,Non A/c Flower
+2009-12-04,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2800,1800,2200,Andhra Pradesh,Non A/c Flower
+2009-04-05,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,3500,2000,2750,Andhra Pradesh,Non A/c Flower
+2009-01-06,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,1800,1000,1200,Andhra Pradesh,Non A/c Flower
+2009-08-06,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2100,1200,1900,Andhra Pradesh,Non A/c Flower
+2009-11-06,Tamarind Fruit,261,Anantapur,FAQ,Hindupur,2000,1200,1500,Andhra Pradesh,Non A/c Flower
+2009-11-11,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1100,1000,1050,Tamil Nadu,With Seed 2Variety
+2009-07-12,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,1100,1000,1050,Tamil Nadu,With Seed 2Variety
+2009-11-12,Tamarind Fruit,261,Krishnagiri,FAQ,Krishnagiri,3500,2500,3000,Tamil Nadu,With Seed 2Variety
+2009-09-06,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2500,2500,2500,Tamil Nadu,Other
+2009-09-07,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2500,2500,2500,Tamil Nadu,Other
+2009-08-09,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-08-10,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-04-11,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-11-11,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-12-11,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-07-12,Tamarind Fruit,261,Vellore,FAQ,Katpadi(Uzhavar Santhai),2000,2000,2000,Tamil Nadu,Other
+2009-01-01,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3200,3600,Telangana,Tamarind Fruit
+2009-04-02,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4700,4200,4400,Telangana,Tamarind Fruit
+2009-11-02,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3200,3600,Telangana,Tamarind Fruit
+2009-05-03,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3400,2400,2900,Telangana,Tamarind Fruit
+2009-02-04,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3000,2000,2500,Telangana,Tamarind Fruit
+2009-09-04,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3000,2000,2500,Telangana,Tamarind Fruit
+2009-11-05,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),1600,1000,1300,Telangana,Tamarind Fruit
+2009-01-06,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),2600,2000,2300,Telangana,Tamarind Fruit
+2009-04-06,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),2800,2000,2400,Telangana,Tamarind Fruit
+2009-02-07,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3500,2500,3000,Telangana,Tamarind Fruit
+2009-03-07,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3400,2600,3000,Telangana,Tamarind Fruit
+2009-09-07,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3500,2500,3000,Telangana,Tamarind Fruit
+2009-07-08,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3000,3500,Telangana,Tamarind Fruit
+2009-10-08,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3000,3500,Telangana,Tamarind Fruit
+2009-02-09,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3000,3500,Telangana,Tamarind Fruit
+2009-05-09,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3000,3500,Telangana,Tamarind Fruit
+2009-07-09,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),4000,3000,3500,Telangana,Tamarind Fruit
+2009-08-10,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3800,3000,3400,Telangana,Tamarind Fruit
+2009-11-11,Tamarind Fruit,261,Hyderabad,FAQ,Hyderabad (F&V),3800,3000,3400,Telangana,Tamarind Fruit
+2009-04-03,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,2240,1867,2053,Telangana,Tamarind Fruit
+2009-01-04,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,2420,1812,2116,Telangana,Tamarind Fruit
+2009-09-04,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,2240,1680,1960,Telangana,Tamarind Fruit
+2009-04-05,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,1689,1224,1454,Telangana,Tamarind Fruit
+2009-06-05,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,1640,1532,1586,Telangana,Tamarind Fruit
+2009-12-05,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar,2000,1580,1790,Telangana,Tamarind Fruit
+2009-09-04,Tamarind Fruit,261,Mahbubnagar,FAQ,Mahbubnagar(Nawabpet),2240,1680,1960,Telangana,Other
+2009-09-07,Tamarind Fruit,261,Nizamabad,FAQ,Armoor,4500,4500,4500,Telangana,Other
+2009-03-05,Tamarind Fruit,261,Ranga Reddy,FAQ,"Alwal,RBZ",1500,1500,1500,Telangana,Tamarind Fruit
+2009-08-06,Tamarind Fruit,261,Ranga Reddy,FAQ,"Alwal,RBZ",1800,1800,1800,Telangana,Tamarind Fruit
+2009-03-07,Tamarind Fruit,261,Ranga Reddy,FAQ,Chevella,2000,2000,2000,Telangana,Tamarind Fruit
+2009-06-07,Tamarind Fruit,261,Ranga Reddy,FAQ,Chevella,2200,2200,2200,Telangana,Tamarind Fruit
+2009-03-03,Ginger(Dry),27,Gwalior,FAQ,Lashkar,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-03,Ginger(Dry),27,Gwalior,FAQ,Lashkar,2000,2000,2000,Madhya Pradesh,Dry
+2009-10-01,Ginger(Dry),27,Indore,FAQ,Indore(F&V),3000,1600,2000,Madhya Pradesh,Other
+2009-12-05,Ginger(Dry),27,Indore,FAQ,Indore(F&V),3200,2400,3000,Madhya Pradesh,Other
+2009-07-11,Ginger(Dry),27,Indore,FAQ,Indore(F&V),2500,1000,1500,Madhya Pradesh,Other
+2009-11-11,Ginger(Dry),27,Indore,FAQ,Indore(F&V),2500,1000,1500,Madhya Pradesh,Other
+2009-01-12,Ginger(Dry),27,Indore,FAQ,Indore(F&V),2500,1200,1800,Madhya Pradesh,Other
+2009-03-02,Ginger(Dry),27,Morena,FAQ,Kailaras,2500,2500,2500,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Morena,FAQ,Kailaras,2500,2500,2500,Madhya Pradesh,Dry
+2009-03-03,Ginger(Dry),27,Morena,FAQ,Kailaras,2000,2000,2000,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Morena,FAQ,Morena,2500,2500,2500,Madhya Pradesh,Dry
+2009-04-03,Ginger(Dry),27,Morena,FAQ,Morena,2000,2000,2000,Madhya Pradesh,Dry
+2009-03-02,Ginger(Dry),27,Morena,FAQ,Porsa,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-02,Ginger(Dry),27,Morena,FAQ,Porsa,2500,2500,2500,Madhya Pradesh,Dry
+2009-03-03,Ginger(Dry),27,Morena,FAQ,Porsa,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-01,Ginger(Dry),27,Morena,FAQ,Sabalgarh,2000,2000,2000,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Morena,FAQ,Sabalgarh,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-02,Ginger(Dry),27,Morena,FAQ,Sabalgarh,2500,2500,2500,Madhya Pradesh,Dry
+2009-03-02,Ginger(Dry),27,Sheopur,FAQ,Sheopurbadod,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-03,Ginger(Dry),27,Sheopur,FAQ,Sheopurbadod,2000,2000,2000,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Sheopur,FAQ,Sheopurkalan,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-02,Ginger(Dry),27,Shivpuri,FAQ,Badarwas,2500,2500,2500,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Shivpuri,FAQ,Karera,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-01,Ginger(Dry),27,Shivpuri,FAQ,Kolaras,2000,2000,2000,Madhya Pradesh,Dry
+2009-04-02,Ginger(Dry),27,Shivpuri,FAQ,Magroni,2500,2500,2500,Madhya Pradesh,Dry
+2009-10-01,Ginger(Dry),27,Shivpuri,FAQ,Pohari,1000,1000,1000,Madhya Pradesh,Dry
+2009-06-03,Ginger(Dry),27,Shivpuri,FAQ,Pohari,2000,2000,2000,Madhya Pradesh,Dry
+2009-04-03,Ginger(Dry),27,Shivpuri,FAQ,Shivpuri,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-03,Ginger(Dry),27,Shivpuri,FAQ,Shivpuri,2000,2000,2000,Madhya Pradesh,Dry
+2009-09-03,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3500,3000,3250,Maharashtra,Other
+2009-02-04,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2800,2800,2800,Maharashtra,Other
+2009-04-04,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3500,3000,3250,Maharashtra,Other
+2009-06-04,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3000,1500,2250,Maharashtra,Other
+2009-04-06,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,4300,2200,3250,Maharashtra,Other
+2009-12-06,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3500,2500,3000,Maharashtra,Other
+2009-08-09,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2800,2800,2800,Maharashtra,Other
+2009-11-09,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3000,2600,2800,Maharashtra,Other
+2009-05-10,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3000,2000,2500,Maharashtra,Other
+2009-10-10,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,3000,2000,2500,Maharashtra,Other
+2009-06-11,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2500,1500,2000,Maharashtra,Other
+2009-07-11,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2500,1800,2200,Maharashtra,Other
+2009-03-12,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2500,2100,2300,Maharashtra,Other
+2009-10-12,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2500,2000,2250,Maharashtra,Other
+2009-12-12,Ginger(Dry),27,Ahmednagar,FAQ,Ahmednagar,2500,2200,2350,Maharashtra,Other
+2009-01-03,Ginger(Dry),27,Ahmednagar,FAQ,Shrirampur,300,270,285,Maharashtra,Other
+2009-06-03,Ginger(Dry),27,Ahmednagar,FAQ,Shrirampur,280,250,265,Maharashtra,Other
+2009-01-08,Ginger(Dry),27,Ahmednagar,FAQ,Shrirampur,385,350,370,Maharashtra,Other
+2009-03-05,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),4000,3000,3500,Maharashtra,Other
+2009-06-05,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),4000,3000,3500,Maharashtra,Other
+2009-11-05,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),4000,3000,3500,Maharashtra,Other
+2009-05-06,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),5000,3500,4250,Maharashtra,Other
+2009-10-06,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),4500,3500,4000,Maharashtra,Other
+2009-02-08,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),5500,2000,3750,Maharashtra,Other
+2009-07-08,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),5500,2000,4250,Maharashtra,Other
+2009-01-09,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-02-10,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2700,1800,2250,Maharashtra,Other
+2009-03-10,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2600,1800,2200,Maharashtra,Other
+2009-06-10,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),3000,2000,2500,Maharashtra,Other
+2009-03-11,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-04-11,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-08-11,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2400,2000,2200,Maharashtra,Other
+2009-05-12,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-07-12,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-11-12,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-12-12,Ginger(Dry),27,Amarawati,FAQ,Amrawati(Frui & Veg. Market),2500,2000,2250,Maharashtra,Other
+2009-05-03,Ginger(Dry),27,Chandrapur,FAQ,Chandrapur(Ganjwad),3300,2700,3000,Maharashtra,Other
+2009-09-03,Ginger(Dry),27,Chandrapur,FAQ,Chandrapur(Ganjwad),3100,2600,2900,Maharashtra,Other
+2009-01-04,Ginger(Dry),27,Chandrapur,FAQ,Chandrapur(Ganjwad),3400,2800,3200,Maharashtra,Other
+2009-04-05,Ginger(Dry),27,Chandrapur,FAQ,Chandrapur(Ganjwad),5500,2800,3800,Maharashtra,Other
+2009-02-12,Ginger(Dry),27,Ambala,FAQ,Naraingarh,1000,1000,1000,Haryana,Other
+2009-04-12,Ginger(Dry),27,Ambala,FAQ,Naraingarh,2000,1700,1850,Haryana,Other
+2009-01-01,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,2400,2000,2200,Haryana,Other
+2009-08-01,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,2800,2200,2500,Haryana,Other
+2009-11-01,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,2200,2000,2100,Haryana,Other
+2009-01-03,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,3000,2500,2800,Haryana,Other
+2009-05-03,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,3000,2400,2600,Haryana,Other
+2009-06-04,Ginger(Dry),27,Bhiwani,FAQ,Ch. Dadri,3400,3000,3200,Haryana,Other
+2009-04-04,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3100,2000,2550,Haryana,Other
+2009-07-04,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,2700,2000,2350,Haryana,Other
+2009-09-04,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3800,1700,2250,Haryana,Other
+2009-12-04,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3200,2550,2875,Haryana,Other
+2009-05-05,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,4600,3000,3550,Haryana,Other
+2009-04-06,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3300,3300,3300,Haryana,Other
+2009-07-06,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3200,3000,3100,Haryana,Other
+2009-02-07,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,5000,3800,4400,Haryana,Other
+2009-05-09,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3500,3000,3200,Haryana,Other
+2009-06-10,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3600,1800,2700,Haryana,Other
+2009-08-10,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,3000,1500,2250,Haryana,Other
+2009-10-10,Ginger(Dry),27,Yamuna Nagar,FAQ,Yamuna Nagar,2300,1300,1800,Haryana,Other
+2009-11-01,Ginger(Dry),27,Kullu,FAQ,Bhuntar,3300,2700,3000,Himachal Pradesh,Other
+2009-02-02,Ginger(Dry),27,Kullu,FAQ,Bhuntar,4000,3500,3700,Himachal Pradesh,Other
+2009-02-03,Ginger(Dry),27,Kullu,FAQ,Bhuntar,4500,4000,4300,Himachal Pradesh,Other
+2009-08-03,Ginger(Dry),27,Kullu,FAQ,Bhuntar,4000,3500,3800,Himachal Pradesh,Other
+2009-09-03,Ginger(Dry),27,Kullu,FAQ,Bhuntar,4000,3500,3800,Himachal Pradesh,Other
+2009-06-04,Ginger(Dry),27,Kullu,FAQ,Bhuntar,4100,3800,4000,Himachal Pradesh,Other
+2009-06-07,Ginger(Dry),27,Kullu,FAQ,Bhuntar,6500,6000,6200,Himachal Pradesh,Other
+2009-09-10,Ginger(Dry),27,Kullu,FAQ,Bhuntar,5000,4000,4500,Himachal Pradesh,Other
+2009-08-11,Ginger(Dry),27,Kullu,FAQ,Bhuntar,3000,2600,2900,Himachal Pradesh,Other
+2009-10-11,Ginger(Dry),27,Kullu,FAQ,Bhuntar,3200,2500,2800,Himachal Pradesh,Other
+2009-12-11,Ginger(Dry),27,Kullu,FAQ,Bhuntar,3000,2500,2700,Himachal Pradesh,Other
+2009-02-01,Ginger(Dry),27,Kullu,FAQ,Kullu,4000,3500,3800,Himachal Pradesh,Other
+2009-12-11,Ginger(Dry),27,Kullu,FAQ,Kullu,2300,1400,1800,Himachal Pradesh,Other
+2009-11-12,Ginger(Dry),27,Sirmore,FAQ,Nahan,1200,1200,1200,Himachal Pradesh,Other
+2009-03-06,Ginger(Dry),27,Sirmore,FAQ,Paonta Sahib,5600,5600,5600,Himachal Pradesh,Other
+2009-02-02,Ginger(Dry),27,Rajouri,FAQ,Rajouri (F&V),4000,3000,3500,Jammu and Kashmir,Fresh Unbleached
+2009-07-02,Ginger(Dry),27,Rajouri,FAQ,Rajouri (F&V),4000,3000,3500,Jammu and Kashmir,Fresh Unbleached
+2009-02-03,Ginger(Dry),27,Rajouri,FAQ,Rajouri (F&V),3500,3000,3250,Jammu and Kashmir,Fresh Unbleached
+2009-01-07,Ginger(Dry),27,Rajouri,FAQ,Rajouri (F&V),6000,5500,5750,Jammu and Kashmir,Other
+2009-10-10,Ginger(Dry),27,Rajouri,FAQ,Rajouri (F&V),4000,3000,3500,Jammu and Kashmir,Other
+2009-03-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-04-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-07-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-08-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-10-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-12-01,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-05-02,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-06-02,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-06-03,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-07-03,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-11-02,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4000,3500,3800,Odisha,Other
+2009-03-03,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4500,4000,4300,Odisha,Other
+2009-06-03,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4500,4000,4300,Odisha,Other
+2009-09-03,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4500,4000,4300,Odisha,Other
+2009-11-03,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4500,4000,4300,Odisha,Other
+2009-01-04,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,4300,4000,4100,Odisha,Other
+2009-05-05,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,5000,4500,4800,Odisha,Other
+2009-07-05,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,5000,4500,4800,Odisha,Other
+2009-09-05,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,5000,4500,4800,Odisha,Other
+2009-01-06,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,5500,5000,5200,Odisha,Other
+2009-06-06,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7000,6000,6500,Odisha,Other
+2009-07-06,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7000,6000,6500,Odisha,Other
+2009-08-06,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7000,6000,6500,Odisha,Other
+2009-12-06,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7500,7000,7200,Odisha,Other
+2009-01-07,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7500,7000,7200,Odisha,Other
+2009-11-07,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6500,6000,6300,Odisha,Other
+2009-12-07,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,7500,7000,7200,Odisha,Other
+2009-01-09,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6200,6000,6100,Odisha,Other
+2009-02-11,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6200,6000,6100,Odisha,Other
+2009-06-11,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6200,6000,6100,Odisha,Other
+2009-07-11,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6500,6000,6300,Odisha,Other
+2009-12-11,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6200,6000,6100,Odisha,Other
+2009-01-12,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6500,6000,6300,Odisha,Other
+2009-03-12,Ginger(Dry),27,Dhenkanal,FAQ,Dhenkanal,6200,6000,6100,Odisha,Other
+2009-10-02,Ginger(Dry),27,Kalahandi,FAQ,Bhawanipatna,4000,4000,4000,Odisha,Other
+2009-01-04,Ginger(Dry),27,Kalahandi,FAQ,Bhawanipatna,5000,5000,5000,Odisha,Other
+2009-08-04,Ginger(Dry),27,Koraput,FAQ,Koraput,4800,4600,4700,Odisha,Other
+2009-04-06,Ginger(Dry),27,Koraput,FAQ,Koraput,4400,4200,4300,Odisha,Other
+2009-11-06,Ginger(Dry),27,Koraput,FAQ,Koraput,3700,3500,3600,Odisha,Other
+2009-07-04,Ginger(Dry),27,Mayurbhanja,FAQ,Baripada,5000,4000,4500,Odisha,Other
+2009-07-04,Ginger(Dry),27,Puri,FAQ,Sakhigopal,5000,4000,5000,Odisha,Fresh Unbleached
+2009-10-04,Ginger(Dry),27,Puri,FAQ,Sakhigopal,5000,4000,5000,Odisha,Fresh Unbleached
+2009-05-05,Ginger(Dry),27,Puri,FAQ,Sakhigopal,5000,4000,4500,Odisha,Fresh Unbleached
+2009-08-05,Ginger(Dry),27,Puri,FAQ,Sakhigopal,5000,4000,4500,Odisha,Fresh Unbleached
+2009-08-03,Ginger(Dry),27,Puri,FAQ,Sakhigopal,50000,40000,50000,Odisha,Other
+2009-08-05,Ginger(Dry),27,Rayagada,FAQ,Gunpur,3500,3200,3200,Odisha,Small
+2009-06-06,Ginger(Dry),27,Rayagada,FAQ,Gunpur,3400,3200,3400,Odisha,Small
+2009-12-07,Ginger(Dry),27,Rayagada,FAQ,Gunpur,4000,3500,4000,Odisha,Small
+2009-12-08,Ginger(Dry),27,Rayagada,FAQ,Gunpur,4000,3500,4000,Odisha,Small
+2009-03-01,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3000,2600,2800,Punjab,Fresh Unbleached
+2009-09-01,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3000,2600,2800,Punjab,Other
+2009-10-01,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3000,2600,2800,Punjab,Other
+2009-08-02,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3000,2800,2900,Punjab,Other
+2009-09-03,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3200,3000,3100,Punjab,Other
+2009-11-03,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3400,3200,3300,Punjab,Other
+2009-10-04,Ginger(Dry),27,Fazilka,FAQ,Fazilka,4200,3800,4000,Punjab,Other
+2009-12-10,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3600,3200,3400,Punjab,Other
+2009-02-11,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3000,2800,2900,Punjab,Other
+2009-03-12,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3200,2800,3000,Punjab,Other
+2009-12-12,Ginger(Dry),27,Fazilka,FAQ,Fazilka,3200,2800,3000,Punjab,Other
+2009-01-01,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,1100,600,1000,Punjab,Other
+2009-02-01,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,2800,2000,2500,Punjab,Other
+2009-08-04,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,4000,3900,3950,Punjab,Other
+2009-06-05,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,3200,3000,3100,Punjab,Other
+2009-11-05,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,5000,4500,4800,Punjab,Other
+2009-12-09,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,4000,3500,3800,Punjab,Other
+2009-06-10,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,3700,3000,3500,Punjab,Other
+2009-12-10,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,2800,2500,2600,Punjab,Other
+2009-05-12,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,3000,2500,2800,Punjab,Other
+2009-09-12,Ginger(Dry),27,Ferozpur,FAQ,Firozepur City,3500,3000,3200,Punjab,Other
+2009-04-01,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2200,2000,2100,Punjab,Vegitable-fresh
+2009-12-01,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2500,1800,2250,Punjab,Vegitable-fresh
+2009-04-02,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2500,2000,2250,Punjab,Vegitable-fresh
+2009-10-02,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,3000,2500,2750,Punjab,Vegitable-fresh
+2009-11-02,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,3000,2500,2750,Punjab,Vegitable-fresh
+2009-05-03,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,3000,2500,2750,Punjab,Vegitable-fresh
+2009-12-09,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,3000,2500,2750,Punjab,Vegitable-fresh
+2009-06-10,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,3000,2000,2500,Punjab,Vegitable-fresh
+2009-07-10,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2500,2000,2250,Punjab,Vegitable-fresh
+2009-10-10,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2500,2000,2250,Punjab,Vegitable-fresh
+2009-02-11,Ginger(Dry),27,Hoshiarpur,FAQ,Dasuya,2500,2000,2250,Punjab,Vegitable-fresh
+2009-11-09,Ginger(Dry),27,Hoshiarpur,FAQ,Mukerian(Talwara),5000,5000,5000,Punjab,Vegitable-fresh
+2009-04-11,Ginger(Dry),27,Hoshiarpur,FAQ,Tanda Urmur,3000,2500,2750,Punjab,Other
+2009-08-11,Ginger(Dry),27,Hoshiarpur,FAQ,Tanda Urmur,3000,2500,2750,Punjab,Other
+2009-07-04,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-09-04,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,4000,3000,3500,Jharkhand,Other
+2009-04-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-06-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-07-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-08-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-10-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-11-05,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-06-06,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-07-06,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-11-06,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,6000,5000,5500,Jharkhand,Other
+2009-05-07,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,8000,7000,7500,Jharkhand,Other
+2009-06-07,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,8000,7000,7500,Jharkhand,Other
+2009-10-07,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,8000,7000,7500,Jharkhand,Other
+2009-04-08,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,8000,7000,7500,Jharkhand,Other
+2009-07-08,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,8000,7000,7500,Jharkhand,Other
+2009-01-09,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,7000,6000,6500,Jharkhand,Other
+2009-05-09,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,7000,6000,6500,Jharkhand,Other
+2009-07-10,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,7000,6000,6500,Jharkhand,Other
+2009-12-10,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,7000,6000,6500,Jharkhand,Other
+2009-01-11,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-02-11,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-09-11,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-10-12,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-12-12,Ginger(Dry),27,Garhwa,FAQ,Gadhwah,5000,4000,4500,Jharkhand,Other
+2009-09-01,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2600,2500,2550,Karnataka,Dry
+2009-03-02,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,1600,1900,Karnataka,Dry
+2009-05-02,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,1600,1900,Karnataka,Dry
+2009-06-02,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,1600,1900,Karnataka,Dry
+2009-04-03,Ginger(Dry),27,Bangalore,FAQ,Bangalore,1200,1000,1050,Karnataka,Dry
+2009-09-03,Ginger(Dry),27,Bangalore,Local,Bangalore,2600,2000,2300,Karnataka,Dry
+2009-08-04,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,2100,2250,Karnataka,Dry
+2009-07-05,Ginger(Dry),27,Bangalore,FAQ,Bangalore,3900,3500,3700,Karnataka,Dry
+2009-01-06,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-06-06,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-09-06,Ginger(Dry),27,Bangalore,Medium,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-03-07,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-04-07,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-06-07,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-07-07,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-10-07,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4500,2500,3500,Karnataka,Dry
+2009-07-10,Ginger(Dry),27,Bangalore,FAQ,Bangalore,4000,1350,2679,Karnataka,Fresh Unbleached
+2009-08-10,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,1000,1500,Karnataka,Fresh Unbleached
+2009-12-10,Ginger(Dry),27,Bangalore,FAQ,Bangalore,2500,1000,1500,Karnataka,Fresh Unbleached
+2009-10-11,Ginger(Dry),27,Bangalore,FAQ,Bangalore,1650,1350,1500,Karnataka,Fresh Unbleached
+2009-11-11,Ginger(Dry),27,Bangalore,FAQ,Bangalore,1650,1350,1500,Karnataka,Fresh Unbleached
+2009-09-12,Ginger(Dry),27,Bangalore,FAQ,Bangalore,1850,1550,1700,Karnataka,Fresh Unbleached
+2009-04-11,Ginger(Dry),27,Mysore,FAQ,Santhesargur,1000,1000,1000,Karnataka,Other
+2009-04-11,Ginger(Dry),27,Ernakulam,FAQ,Aluva,12500,12500,12500,Kerala,Dry
+2009-11-11,Ginger(Dry),27,Ernakulam,FAQ,Aluva,12500,12500,12500,Kerala,Dry
+2009-10-09,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,12500,11000,11750,Kerala,Dry
+2009-05-01,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,3000,2400,2700,Kerala,Fresh Unbleached
+2009-08-01,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,3000,2600,2800,Kerala,Fresh Unbleached
+2009-12-01,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,2600,2000,2300,Kerala,Fresh Unbleached
+2009-06-07,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,7000,6000,6500,Kerala,Vegitable-fresh
+2009-08-10,Ginger(Dry),27,Ernakulam,FAQ,Moovattupuzha,3000,2800,2800,Kerala,Vegitable-fresh
+2009-03-01,Ginger(Dry),27,Idukki,FAQ,Thodupuzha,8100,7900,8000,Kerala,Dry
+2009-04-02,Ginger(Dry),27,Idukki,FAQ,Thodupuzha,9100,8900,9000,Kerala,Dry
+2009-06-05,Ginger(Dry),27,Idukki,FAQ,Thodupuzha,11600,11400,11500,Kerala,Dry
+2009-03-06,Ginger(Dry),27,Idukki,FAQ,Thodupuzha,11100,10900,11000,Kerala,Dry
+2009-04-07,Ginger(Dry),27,Idukki,FAQ,Thodupuzha,10100,9900,10000,Kerala,Dry
+2009-03-12,Ginger(Dry),27,Kollam,FAQ,Anchal,3700,3500,3600,Kerala,Other
+2009-07-08,Ginger(Dry),27,Kollam,FAQ,Kottarakkara,4200,4000,4100,Kerala,Dry
+2009-11-02,Ginger(Dry),27,Kozhikode(Calicut),FAQ,Vengeri(Kozhikode),8500,7800,8000,Kerala,Dry
+2009-12-03,Ginger(Dry),27,Kozhikode(Calicut),FAQ,Vengeri(Kozhikode),8000,7500,7800,Kerala,Dry
+2009-01-07,Ginger(Dry),27,Kozhikode(Calicut),FAQ,Vengeri(Kozhikode),8800,8500,8700,Kerala,Dry
+2009-09-12,Ginger(Dry),27,Kozhikode(Calicut),FAQ,Vengeri(Kozhikode),8200,7800,8000,Kerala,Dry
+2009-03-10,Ginger(Dry),27,Malappuram,FAQ,Manjeri,4500,4500,4500,Kerala,Other
+2009-03-07,Ginger(Dry),27,Wayanad,FAQ,Kalpetta,2800,2600,2700,Kerala,Other
+2009-10-01,Ginger(Dry),27,Ashoknagar,FAQ,Mungawali,1000,1000,1000,Madhya Pradesh,Dry
+2009-03-03,Ginger(Dry),27,Ashoknagar,FAQ,Mungawali,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-01,Ginger(Dry),27,Bhind,FAQ,Bhind,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-02,Ginger(Dry),27,Bhind,FAQ,Bhind,2500,2500,2500,Madhya Pradesh,Dry
+2009-03-03,Ginger(Dry),27,Bhind,FAQ,Bhind,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-03,Ginger(Dry),27,Bhind,FAQ,Bhind,2000,2000,2000,Madhya Pradesh,Dry
+2009-06-01,Ginger(Dry),27,Bhind,FAQ,Gohad,2000,2000,2000,Madhya Pradesh,Dry
+2009-03-02,Ginger(Dry),27,Bhind,FAQ,Gohad,2500,2500,2500,Madhya Pradesh,Dry
+2009-03-03,Ginger(Dry),27,Bhind,FAQ,Gohad,2000,2000,2000,Madhya Pradesh,Dry
+2009-03-02,Ginger(Dry),27,Bhind,FAQ,Lahar,2500,2500,2500,Madhya Pradesh,Dry
+2009-06-02,Ginger(Dry),27,Bhind,FAQ,Lahar,2500,2500,2500,Madhya Pradesh,Dry
+2009-01-03,Ginger(Dry),27,Chhindwara,FAQ,Chhindwara,1800,1600,1700,Madhya Pradesh,Other
+2009-04-10,Ginger(Dry),27,Chhindwara,FAQ,Chhindwara,1300,1100,1200,Madhya Pradesh,Other
+2009-02-02,Sajje,271,Bagalkot,Medium,Badami,690,600,690,Karnataka,Sajje
+2009-10-02,Sajje,271,Bagalkot,Medium,Badami,701,700,701,Karnataka,Sajje
+2009-05-03,Sajje,271,Bagalkot,FAQ,Badami,838,710,750,Karnataka,Sajje
+2009-03-04,Sajje,271,Bagalkot,FAQ,Badami,740,720,730,Karnataka,Sajje
+2009-09-04,Sajje,271,Bagalkot,FAQ,Badami,800,725,780,Karnataka,Sajje
+2009-07-05,Sajje,271,Bagalkot,Medium,Badami,795,740,775,Karnataka,Sajje
+2009-02-02,Sajje,271,Bagalkot,FAQ,Hungund,720,700,710,Karnataka,Sajje
+2009-11-02,Sajje,271,Bagalkot,FAQ,Hungund,690,600,650,Karnataka,Sajje
+2009-02-03,Sajje,271,Bagalkot,FAQ,Hungund,703,703,703,Karnataka,Sajje
+2009-12-04,Sajje,271,Belgaum,FAQ,Ramdurga,740,605,705,Karnataka,Sajje
+2009-07-06,Sajje,271,Belgaum,FAQ,Ramdurga,725,625,695,Karnataka,Sajje
+2009-05-07,Sajje,271,Belgaum,FAQ,Ramdurga,750,660,730,Karnataka,Sajje
+2009-03-12,Sajje,271,Dharwad,FAQ,Dharwar,775,775,775,Karnataka,Sajje
+2009-07-02,Sajje,271,Gadag,FAQ,Rona,715,705,710,Karnataka,Sajje
+2009-09-02,Sajje,271,Gadag,FAQ,Rona,712,700,710,Karnataka,Sajje
+2009-05-03,Sajje,271,Gadag,FAQ,Rona,688,660,670,Karnataka,Sajje
+2009-06-03,Sajje,271,Gadag,FAQ,Rona,667,648,655,Karnataka,Sajje
+2009-02-05,Sajje,271,Gadag,FAQ,Rona,725,710,720,Karnataka,Sajje
+2009-08-06,Sajje,271,Gadag,FAQ,Rona,761,740,750,Karnataka,Sajje
+2009-07-01,Sajje,271,Kalburgi,FAQ,Kalburgi,825,650,750,Karnataka,Sajje
+2009-09-01,Sajje,271,Kalburgi,FAQ,Kalburgi,825,670,750,Karnataka,Sajje
+2009-02-02,Sajje,271,Kalburgi,FAQ,Kalburgi,850,725,750,Karnataka,Sajje
+2009-04-02,Sajje,271,Kalburgi,FAQ,Kalburgi,850,725,750,Karnataka,Sajje
+2009-05-06,Sajje,271,Kalburgi,FAQ,Kalburgi,950,800,900,Karnataka,Sajje
+2009-01-07,Sajje,271,Kalburgi,FAQ,Kalburgi,900,760,860,Karnataka,Sajje
+2009-07-07,Sajje,271,Kalburgi,FAQ,Kalburgi,900,750,860,Karnataka,Sajje
+2009-08-07,Sajje,271,Kalburgi,FAQ,Kalburgi,925,775,870,Karnataka,Sajje
+2009-10-07,Sajje,271,Kalburgi,FAQ,Kalburgi,900,775,850,Karnataka,Sajje
+2009-02-11,Sajje,271,Raichur,FAQ,Lingasugur,655,650,650,Karnataka,Sajje
+2009-09-01,Dalda,273,Deogarh,FAQ,Madhupur,5200,5100,5180,Jharkhand,Dalda
+2009-05-02,Dalda,273,Deogarh,FAQ,Madhupur,5000,4900,4980,Jharkhand,Dalda
+2009-10-02,Dalda,273,Deogarh,FAQ,Madhupur,5000,4900,4980,Jharkhand,Dalda
+2009-03-03,Dalda,273,Deogarh,FAQ,Madhupur,4000,3900,3980,Jharkhand,Dalda
+2009-04-03,Dalda,273,Deogarh,FAQ,Madhupur,4400,4300,4380,Jharkhand,Dalda
+2009-07-03,Dalda,273,Deogarh,FAQ,Madhupur,4100,4000,4080,Jharkhand,Dalda
+2009-12-03,Dalda,273,Deogarh,FAQ,Madhupur,4000,3900,3980,Jharkhand,Dalda
+2009-08-05,Dalda,273,Deogarh,FAQ,Madhupur,4500,4400,4480,Jharkhand,Dalda
+2009-06-06,Dalda,273,Deogarh,FAQ,Madhupur,4400,4300,4380,Jharkhand,Dalda
+2009-08-06,Dalda,273,Deogarh,FAQ,Madhupur,4400,4300,4400,Jharkhand,Dalda
+2009-04-07,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-06-07,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-07-07,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-05-08,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-07-08,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-10-08,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Dalda
+2009-02-09,Dalda,273,Deogarh,FAQ,Madhupur,4500,4400,4480,Jharkhand,Other
+2009-09-09,Dalda,273,Deogarh,FAQ,Madhupur,4500,4400,4480,Jharkhand,Other
+2009-04-11,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Other
+2009-06-11,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4170,Jharkhand,Other
+2009-07-11,Dalda,273,Deogarh,FAQ,Madhupur,4200,4100,4180,Jharkhand,Other
+2009-10-12,Dalda,273,Deogarh,FAQ,Madhupur,4400,4300,4380,Jharkhand,Other
+2009-10-01,Dalda,273,Dhanbad,FAQ,Dhanbad,4150,4050,4150,Jharkhand,Other
+2009-09-02,Dalda,273,Dhanbad,FAQ,Dhanbad,4100,4000,4100,Jharkhand,Other
+2009-12-03,Dalda,273,Dhanbad,FAQ,Dhanbad,4250,4100,4200,Jharkhand,Other
+2009-07-04,Dalda,273,Dhanbad,FAQ,Dhanbad,4200,4050,4100,Jharkhand,Other
+2009-05-05,Dalda,273,Dhanbad,FAQ,Dhanbad,4500,4250,4400,Jharkhand,Other
+2009-06-06,Dalda,273,Dhanbad,FAQ,Dhanbad,4400,4200,4300,Jharkhand,Other
+2009-12-09,Dalda,273,Dhanbad,FAQ,Dhanbad,4450,4200,4300,Jharkhand,Other
+2009-10-10,Dalda,273,Dhanbad,FAQ,Dhanbad,4400,4225,4250,Jharkhand,Other
+2009-12-10,Dalda,273,Dhanbad,FAQ,Dhanbad,4400,4200,4250,Jharkhand,Other
+2009-03-04,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-02-05,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-01-06,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-04-06,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-10-06,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-11-07,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-12-07,Dalda,273,Garhwa,FAQ,Gadhwah,4500,4300,4400,Jharkhand,Other
+2009-03-08,Dalda,273,Garhwa,FAQ,Gadhwah,5000,4800,4900,Jharkhand,Other
+2009-12-08,Dalda,273,Garhwa,FAQ,Gadhwah,5000,4800,4900,Jharkhand,Other
+2009-05-10,Dalda,273,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-07-10,Dalda,273,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-09-10,Dalda,273,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-12-01,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2600,2400,2500,Rajasthan,Other
+2009-06-02,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2700,2500,2600,Rajasthan,Other
+2009-09-02,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2700,2500,2600,Rajasthan,Other
+2009-12-02,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2700,2500,2600,Rajasthan,Other
+2009-09-03,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),3200,3000,3100,Rajasthan,Other
+2009-12-03,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),3300,3100,3200,Rajasthan,Other
+2009-01-04,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),3500,3300,3400,Rajasthan,Other
+2009-09-04,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2700,2500,2600,Rajasthan,Other
+2009-01-05,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),4700,4500,4600,Rajasthan,Other
+2009-02-06,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),4800,4500,4700,Rajasthan,Other
+2009-08-06,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),4600,4500,4550,Rajasthan,Other
+2009-07-07,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),4900,4700,4800,Rajasthan,Other
+2009-08-10,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),3600,3400,3500,Rajasthan,Other
+2009-12-10,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),3500,3300,3400,Rajasthan,Other
+2009-12-11,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2800,2600,2700,Rajasthan,Other
+2009-03-12,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2500,2300,2400,Rajasthan,Other
+2009-04-12,Ginger(Dry),27,Ganganagar,FAQ,Sriganganagar (F&V),2650,2450,2550,Rajasthan,Other
+2009-01-01,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),2000,1800,1900,Rajasthan,Other
+2009-02-01,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),2000,1800,1900,Rajasthan,Other
+2009-12-01,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),2200,2000,2100,Rajasthan,Other
+2009-03-03,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),2400,2200,2300,Rajasthan,Other
+2009-02-04,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),3000,2600,2800,Rajasthan,Other
+2009-08-04,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),3800,3000,3400,Rajasthan,Other
+2009-10-04,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),3600,3000,3400,Rajasthan,Other
+2009-03-11,Ginger(Dry),27,Jaipur,FAQ,Chomu (F&V),1600,1400,1500,Rajasthan,Other
+2009-07-12,Ginger(Dry),27,East,FAQ,Rangpo,2200,2125,2125,Sikkim,Big/Thick
+2009-11-04,Ginger(Dry),27,Ranga Reddy,FAQ,Vikarabad,2500,2000,2250,Telangana,Other
+2009-03-04,Ginger(Dry),27,Khowai,FAQ,Teliamura,4000,3000,3500,Tripura,Other
+2009-09-09,Ginger(Dry),27,Khowai,FAQ,Teliamura,7000,6000,6500,Tripura,Other
+2009-09-10,Ginger(Dry),27,Khowai,FAQ,Teliamura,6000,5000,5500,Tripura,Other
+2009-06-05,Sunflower Seed,285,Kurnool,FAQ,Adoni,2310,2040,2150,Andhra Pradesh,Sunflower Seed
+2009-11-05,Sunflower Seed,285,Kurnool,FAQ,Adoni,2310,1866,2200,Andhra Pradesh,Sunflower Seed
+2009-12-05,Sunflower Seed,285,Kurnool,FAQ,Adoni,2290,1930,2250,Andhra Pradesh,Sunflower Seed
+2009-02-06,Sunflower Seed,285,Kurnool,FAQ,Adoni,2301,2090,2250,Andhra Pradesh,Sunflower Seed
+2009-03-06,Sunflower Seed,285,Kurnool,FAQ,Adoni,2253,2176,2200,Andhra Pradesh,Sunflower Seed
+2009-01-07,Sunflower Seed,285,Kurnool,FAQ,Adoni,2158,1969,2120,Andhra Pradesh,Sunflower Seed
+2009-03-08,Sunflower Seed,285,Kurnool,FAQ,Adoni,2232,2129,2200,Andhra Pradesh,Sunflower Seed
+2009-05-08,Sunflower Seed,285,Kurnool,FAQ,Adoni,2264,2083,2190,Andhra Pradesh,Sunflower Seed
+2009-10-08,Sunflower Seed,285,Kurnool,FAQ,Adoni,2262,2166,2187,Andhra Pradesh,Sunflower Seed
+2009-05-11,Sunflower Seed,285,Kurnool,FAQ,Adoni,2346,1450,2200,Andhra Pradesh,Sunflower Seed
+2009-08-11,Sunflower Seed,285,Kurnool,FAQ,Adoni,2370,1409,2208,Andhra Pradesh,Sunflower Seed
+2009-09-11,Sunflower Seed,285,Kurnool,FAQ,Adoni,2388,1409,2200,Andhra Pradesh,Sunflower Seed
+2009-08-12,Sunflower Seed,285,Kurnool,FAQ,Adoni,2599,1930,2250,Andhra Pradesh,Sunflower Seed
+2009-12-12,Sunflower Seed,285,Kurnool,FAQ,Adoni,2584,2069,2300,Andhra Pradesh,Sunflower Seed
+2009-04-01,Sunflower Seed,285,Kurnool,FAQ,Alur,2500,1800,2250,Andhra Pradesh,Other
+2009-05-01,Sunflower Seed,285,Kurnool,FAQ,Alur,2700,1800,2250,Andhra Pradesh,Other
+2009-10-01,Sunflower Seed,285,Kurnool,FAQ,Alur,2700,1750,2500,Andhra Pradesh,Other
+2009-10-02,Sunflower Seed,285,Kurnool,FAQ,Alur,2650,1800,2500,Andhra Pradesh,Other
+2009-04-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2500,1850,2400,Andhra Pradesh,Other
+2009-05-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2550,1850,2400,Andhra Pradesh,Other
+2009-07-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2700,1850,2550,Andhra Pradesh,Other
+2009-10-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2550,1800,2400,Andhra Pradesh,Other
+2009-12-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2600,1800,2500,Andhra Pradesh,Other
+2009-04-04,Sunflower Seed,285,Kurnool,FAQ,Alur,2500,1800,2350,Andhra Pradesh,Other
+2009-08-02,Sunflower Seed,285,Kurnool,FAQ,Alur,2650,1850,2450,Andhra Pradesh,Sunflower Seed
+2009-09-03,Sunflower Seed,285,Kurnool,FAQ,Alur,2000,1650,1800,Andhra Pradesh,Sunflower Seed
+2009-02-05,Sunflower Seed,285,Kurnool,FAQ,Alur,2450,1780,2300,Andhra Pradesh,Sunflower Seed
+2009-05-05,Sunflower Seed,285,Kurnool,FAQ,Alur,2400,1850,2300,Andhra Pradesh,Sunflower Seed
+2009-07-05,Sunflower Seed,285,Kurnool,FAQ,Alur,2450,1850,2300,Andhra Pradesh,Sunflower Seed
+2009-09-05,Sunflower Seed,285,Kurnool,FAQ,Alur,2450,1850,2300,Andhra Pradesh,Sunflower Seed
+2009-12-05,Sunflower Seed,285,Kurnool,FAQ,Alur,2000,1750,1900,Andhra Pradesh,Sunflower Seed
+2009-07-06,Sunflower Seed,285,Kurnool,FAQ,Alur,2000,1750,1900,Andhra Pradesh,Sunflower Seed
+2009-04-07,Sunflower Seed,285,Kurnool,FAQ,Alur,2200,1400,1900,Andhra Pradesh,Sunflower Seed
+2009-01-08,Sunflower Seed,285,Kurnool,FAQ,Alur,2100,1400,2000,Andhra Pradesh,Sunflower Seed
+2009-07-08,Sunflower Seed,285,Kurnool,FAQ,Alur,2400,1500,2300,Andhra Pradesh,Sunflower Seed
+2009-02-01,Sunflower Seed,285,Kurnool,FAQ,Atmakur,2650,1650,2500,Andhra Pradesh,Other
+2009-08-01,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,3100,2900,3000,Andhra Pradesh,Sunflower Seed
+2009-03-02,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,3100,2900,3000,Andhra Pradesh,Sunflower Seed
+2009-04-02,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,3100,3000,3050,Andhra Pradesh,Sunflower Seed
+2009-12-02,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,3100,3000,3050,Andhra Pradesh,Sunflower Seed
+2009-05-04,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2200,2100,2150,Andhra Pradesh,Sunflower Seed
+2009-06-04,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2200,2100,2150,Andhra Pradesh,Sunflower Seed
+2009-09-04,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2300,2100,2200,Andhra Pradesh,Sunflower Seed
+2009-01-05,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2300,2100,2200,Andhra Pradesh,Sunflower Seed
+2009-04-05,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2350,2250,2300,Andhra Pradesh,Sunflower Seed
+2009-06-06,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2500,2400,2450,Andhra Pradesh,Sunflower Seed
+2009-09-06,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2700,2600,2650,Andhra Pradesh,Sunflower Seed
+2009-11-06,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2800,2700,2750,Andhra Pradesh,Sunflower Seed
+2009-02-08,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2300,2200,2250,Andhra Pradesh,Sunflower Seed
+2009-08-08,Sunflower Seed,285,Kurnool,FAQ,Koilkunta,2300,2000,2100,Andhra Pradesh,Sunflower Seed
+2009-05-06,Sunflower Seed,285,Jalandhar,FAQ,Bhogpur,1950,1700,1900,Punjab,Sunflower Seed
+2009-07-09,Sunflower Seed,285,Ariyalur,FAQ,Ariyalur Market,2179,1949,2179,Tamil Nadu,Other
+2009-10-03,Sunflower Seed,285,Erode,FAQ,Boothapadi,2424,1931,2269,Tamil Nadu,Sunflower Seed
+2009-04-05,Sunflower Seed,285,Erode,FAQ,Vellakkoil,2530,1971,2209,Tamil Nadu,Sunflower Seed
+2009-11-05,Sunflower Seed,285,Erode,FAQ,Vellakkoil,2589,1920,2419,Tamil Nadu,Sunflower Seed
+2009-10-09,Sunflower Seed,285,Erode,FAQ,Vellakkoil,2442,1942,2270,Tamil Nadu,Sunflower Seed
+2009-03-03,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,1900,1500,1700,Tamil Nadu,Other
+2009-03-04,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2000,1800,1900,Tamil Nadu,Other
+2009-06-04,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2200,2000,2100,Tamil Nadu,Other
+2009-08-07,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2100,2000,2050,Tamil Nadu,Other
+2009-03-08,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2000,1900,1950,Tamil Nadu,Other
+2009-01-09,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2000,1800,1900,Tamil Nadu,Other
+2009-12-10,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2050,2000,2025,Tamil Nadu,Other
+2009-06-11,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2000,1900,1950,Tamil Nadu,Other
+2009-12-11,Sunflower Seed,285,Virudhunagar,FAQ,Virudhunagar,2000,1900,1950,Tamil Nadu,Other
+2009-02-01,Sunflower Seed,285,Mahbubnagar,FAQ,Narayanpet,2104,1988,2038,Telangana,Sunflower Seed
+2009-06-01,Sunflower Seed,285,Mahbubnagar,FAQ,Narayanpet,2096,1989,2075,Telangana,Sunflower Seed
+2009-07-01,Sunflower Seed,285,Mahbubnagar,FAQ,Narayanpet,2152,2082,2128,Telangana,Sunflower Seed
+2009-03-02,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2101,2021,2050,Telangana,Sunflower Seed
+2009-06-02,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2032,2016,2025,Telangana,Sunflower Seed
+2009-05-03,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,1944,1896,1940,Telangana,Sunflower Seed
+2009-01-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,1953,1941,1946,Telangana,Sunflower Seed
+2009-02-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,1953,1941,1946,Telangana,Sunflower Seed
+2009-04-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,1953,1941,1946,Telangana,Sunflower Seed
+2009-06-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2061,2051,2051,Telangana,Sunflower Seed
+2009-07-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2061,2051,2051,Telangana,Sunflower Seed
+2009-11-04,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2061,2030,2042,Telangana,Sunflower Seed
+2009-03-05,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2180,2180,2180,Telangana,Sunflower Seed
+2009-04-05,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2266,2172,2210,Telangana,Sunflower Seed
+2009-12-05,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2211,2183,2211,Telangana,Sunflower Seed
+2009-01-06,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2172,2016,2132,Telangana,Sunflower Seed
+2009-06-06,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2166,2166,2166,Telangana,Sunflower Seed
+2009-09-06,Sunflower Seed,285,Mahbubnagar,FAQ,Shadnagar,2126,2126,2126,Telangana,Sunflower Seed
+2009-07-02,Sunflower Seed,285,Nizamabad,FAQ,Nizamabad,1920,1630,1850,Telangana,Sunflower Seed
+2009-12-02,Sunflower Seed,285,Nizamabad,FAQ,Nizamabad,1940,1520,1890,Telangana,Sunflower Seed
+2009-01-03,Sunflower Seed,285,Nizamabad,FAQ,Nizamabad,1820,1500,1800,Telangana,Sunflower Seed
+2009-04-03,Sunflower Seed,285,Nizamabad,FAQ,Nizamabad,1900,1550,1850,Telangana,Sunflower Seed
+2009-09-05,Sunflower Seed,285,Nizamabad,FAQ,Nizamabad,1850,1850,1850,Telangana,Sunflower Seed
+2009-09-02,Soji,286,Dhanbad,FAQ,Dhanbad,1600,1500,1600,Jharkhand,Other
+2009-03-03,Soji,286,Dhanbad,FAQ,Dhanbad,1550,1450,1500,Jharkhand,Other
+2009-06-03,Soji,286,Dhanbad,FAQ,Dhanbad,1600,1500,1550,Jharkhand,Other
+2009-07-03,Soji,286,Dhanbad,FAQ,Dhanbad,1600,1525,1550,Jharkhand,Other
+2009-02-09,Soji,286,Dhanbad,FAQ,Dhanbad,1600,1550,1575,Jharkhand,Other
+2009-04-09,Soji,286,Dhanbad,FAQ,Dhanbad,1550,1500,1525,Jharkhand,Other
+2009-05-09,Soji,286,Dhanbad,FAQ,Dhanbad,1560,1500,1540,Jharkhand,Other
+2009-04-10,Soji,286,Dhanbad,FAQ,Dhanbad,1700,1600,1650,Jharkhand,Other
+2009-02-11,Soji,286,Dhanbad,FAQ,Dhanbad,1650,1600,1625,Jharkhand,Other
+2009-09-12,Soji,286,Dhanbad,FAQ,Dhanbad,1700,1625,1650,Jharkhand,Other
+2009-12-12,Soji,286,Dhanbad,FAQ,Dhanbad,1700,1625,1650,Jharkhand,Other
+2009-07-04,Soji,286,Hazaribagh,FAQ,Hazaribagh,1500,1350,1450,Jharkhand,Other
+2009-09-04,Soji,286,Hazaribagh,FAQ,Hazaribagh,1600,1300,1450,Jharkhand,Other
+2009-11-04,Soji,286,Hazaribagh,FAQ,Hazaribagh,1500,1300,1400,Jharkhand,Other
+2009-09-05,Soji,286,Hazaribagh,FAQ,Hazaribagh,1550,1300,1450,Jharkhand,Other
+2009-01-06,Soji,286,Hazaribagh,FAQ,Hazaribagh,1560,1320,1500,Jharkhand,Other
+2009-10-08,Soji,286,Hazaribagh,FAQ,Hazaribagh,1600,1400,1500,Jharkhand,Other
+2009-03-08,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Other
+2009-05-08,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Other
+2009-07-08,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Other
+2009-02-11,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Other
+2009-09-11,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Other
+2009-11-12,Soji,286,Palamu,FAQ,Daltenganj,2000,1800,1900,Jharkhand,Other
+2009-04-09,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-07-09,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-08-09,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-11-09,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-12-09,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-07-10,Soji,286,Palamu,FAQ,Daltenganj,1800,1600,1700,Jharkhand,Soji
+2009-02-02,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-07-02,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-10-02,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-03-03,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-06-03,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-06-04,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-08-04,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-01-06,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-06-06,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-11-06,Soji,286,Bangalore,Medium,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-08-07,Soji,286,Bangalore,FAQ,Bangalore,2300,2100,2200,Karnataka,Bansi Soji
+2009-01-08,Soji,286,Bangalore,FAQ,Bangalore,1800,1400,1600,Karnataka,Bansi Soji
+2009-03-08,Soji,286,Bangalore,FAQ,Bangalore,2100,1800,2000,Karnataka,Bansi Soji
+2009-06-08,Soji,286,Bangalore,FAQ,Bangalore,2400,2100,2200,Karnataka,Bansi Soji
+2009-10-08,Soji,286,Bangalore,FAQ,Bangalore,2400,2100,2200,Karnataka,Bansi Soji
+2009-02-02,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-10-02,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-07-03,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-11-03,Soji,286,Bangalore,Local,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-04-05,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-06-05,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-08-05,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-01-06,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-02-06,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-02-07,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-06-07,Soji,286,Bangalore,FAQ,Bangalore,1800,1700,1750,Karnataka,White Soji
+2009-04-08,Soji,286,Bangalore,FAQ,Bangalore,1800,1400,1600,Karnataka,White Soji
+2009-06-08,Soji,286,Bangalore,FAQ,Bangalore,2100,1800,2000,Karnataka,White Soji
+2009-07-07,Soji,286,Kollam,FAQ,Kollam,2400,2300,2350,Kerala,Other
+2009-02-12,Soji,286,Kollam,FAQ,Kollam,2600,2500,2550,Kerala,Other
+2009-05-06,Soji,286,Thiruvananthapuram,FAQ,Chala,2610,2600,2600,Kerala,Other
+2009-07-07,Soji,286,Thiruvananthapuram,FAQ,Chala,2510,2500,2500,Kerala,Other
+2009-10-07,Soji,286,Thiruvananthapuram,FAQ,Chala,2410,2400,2400,Kerala,Other
+2009-03-11,Soji,286,Thiruvananthapuram,FAQ,Chala,2610,2600,2600,Kerala,Other
+2009-09-02,Soji,286,Sundergarh,FAQ,Panposh,2000,1800,1900,Odisha,Other
+2009-06-03,Soji,286,Sundergarh,FAQ,Panposh,2000,1800,1900,Odisha,Other
+2009-03-06,Soji,286,Sundergarh,FAQ,Panposh,2000,1800,1900,Odisha,Other
+2009-02-09,Soji,286,Sundergarh,FAQ,Panposh,2000,1800,1900,Odisha,Other
+2009-11-09,Soji,286,Sundergarh,FAQ,Panposh,2000,1800,1900,Odisha,Other
+2009-03-02,Wheat Atta,287,Barpeta,FAQ,Bohorihat,1450,1400,1425,Assam,Other
+2009-06-10,Moath Dal,258,Nagaur,FAQ,Nagaur,4800,4500,4650,Rajasthan,Other
+2009-08-10,Moath Dal,258,Nagaur,FAQ,Nagaur,4621,4450,4535,Rajasthan,Other
+2009-03-03,Moath Dal,258,Nagaur,FAQ,Nagaur(Jayal),2100,2050,2075,Rajasthan,Other
+2009-01-01,Moath Dal,258,Pali,FAQ,Jaitaran,1625,1600,1613,Rajasthan,Other
+2009-02-03,Moath Dal,258,Pali,FAQ,Jaitaran,1100,1100,1100,Rajasthan,Other
+2009-01-01,Moath Dal,258,Sikar,FAQ,Fatehpur,1350,1350,1350,Rajasthan,Other
+2009-06-02,Moath Dal,258,Sikar,FAQ,Fatehpur,1640,1625,1632,Rajasthan,Other
+2009-06-01,Moath Dal,258,Sikar,FAQ,Sri Madhopur,1300,1100,1200,Rajasthan,Other
+2009-12-01,Moath Dal,258,Sikar,FAQ,Sri Madhopur,1550,1300,1425,Rajasthan,Other
+2009-04-02,Moath Dal,258,Sikar,FAQ,Sri Madhopur,1700,1480,1560,Rajasthan,Other
+2009-02-03,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6770,5960,6550,West Bengal,Masur Dal
+2009-02-04,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,5800,5400,5700,West Bengal,Masur Dal
+2009-08-04,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,5600,5000,5500,West Bengal,Masur Dal
+2009-05-05,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,5700,5050,5600,West Bengal,Masur Dal
+2009-01-06,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,5900,5500,5800,West Bengal,Masur Dal
+2009-03-06,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,5900,5500,5800,West Bengal,Masur Dal
+2009-04-08,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6400,6000,6300,West Bengal,Masur Dal
+2009-06-08,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6400,6000,6300,West Bengal,Masur Dal
+2009-01-10,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6730,6540,6650,West Bengal,Masur Dal
+2009-06-10,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6600,6500,6530,West Bengal,Masur Dal
+2009-07-12,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6450,6150,6370,West Bengal,Masur Dal
+2009-10-12,Masur Dal,259,Jalpaiguri,FAQ,Jalpaiguri Sadar,6400,6100,6300,West Bengal,Masur Dal
+2009-04-12,Masur Dal,259,Medinipur(W),FAQ,Midnapore Sadar,6500,5900,6400,West Bengal,Masur Dal
+2009-07-12,Masur Dal,259,Medinipur(W),FAQ,Midnapore Sadar,6500,5800,6400,West Bengal,Masur Dal
+2009-10-12,Masur Dal,259,Medinipur(W),FAQ,Midnapore Sadar,6500,5800,6400,West Bengal,Masur Dal
+2009-01-12,Masur Dal,259,North 24 Parganas,FAQ,Habra,6400,6225,6350,West Bengal,Masur Dal
+2009-02-12,Masur Dal,259,North 24 Parganas,FAQ,Habra,6450,6200,6350,West Bengal,Masur Dal
+2009-08-12,Masur Dal,259,North 24 Parganas,FAQ,Habra,6350,6100,6275,West Bengal,Masur Dal
+2009-12-12,Masur Dal,259,North 24 Parganas,FAQ,Habra,6300,6050,6275,West Bengal,Masur Dal
+2009-02-01,Masur Dal,259,Puruliya,FAQ,Purulia,6500,5500,6300,West Bengal,Other
+2009-10-01,Masur Dal,259,Puruliya,FAQ,Purulia,6600,5550,6350,West Bengal,Other
+2009-02-02,Masur Dal,259,Puruliya,FAQ,Purulia,6800,5800,6400,West Bengal,Other
+2009-06-02,Masur Dal,259,Puruliya,FAQ,Purulia,6800,5800,6400,West Bengal,Other
+2009-07-02,Masur Dal,259,Puruliya,FAQ,Purulia,6800,5800,6400,West Bengal,Other
+2009-12-02,Masur Dal,259,Puruliya,FAQ,Purulia,6800,5800,6400,West Bengal,Other
+2009-02-03,Masur Dal,259,Puruliya,FAQ,Purulia,6600,5800,6300,West Bengal,Other
+2009-08-03,Masur Dal,259,Puruliya,FAQ,Purulia,6600,5700,6200,West Bengal,Other
+2009-05-04,Masur Dal,259,Puruliya,FAQ,Purulia,6000,5000,5800,West Bengal,Other
+2009-02-05,Masur Dal,259,Puruliya,FAQ,Purulia,6200,5000,6000,West Bengal,Other
+2009-09-06,Masur Dal,259,Puruliya,FAQ,Purulia,6200,5000,6000,West Bengal,Other
+2009-11-06,Masur Dal,259,Puruliya,FAQ,Purulia,6200,5000,6000,West Bengal,Other
+2009-01-07,Masur Dal,259,Puruliya,FAQ,Purulia,6300,5100,6100,West Bengal,Other
+2009-04-09,Masur Dal,259,Puruliya,FAQ,Purulia,6400,5800,6300,West Bengal,Other
+2009-05-09,Masur Dal,259,Puruliya,FAQ,Purulia,6400,5800,6300,West Bengal,Other
+2009-09-09,Masur Dal,259,Puruliya,FAQ,Purulia,6400,5800,6300,West Bengal,Other
+2009-03-10,Masur Dal,259,Puruliya,FAQ,Purulia,6300,5400,6100,West Bengal,Other
+2009-01-11,Masur Dal,259,Puruliya,FAQ,Purulia,6500,5600,6300,West Bengal,Other
+2009-07-11,Masur Dal,259,Puruliya,FAQ,Purulia,6500,5800,6300,West Bengal,Other
+2009-02-01,Garlic,25,BONGAIGAON,FAQ,Bongiagaon,1600,1500,1500,Assam,Other
+2009-04-06,Garlic,25,Dhemaji,FAQ,Silapathar,4000,3000,3500,Assam,Other
+2009-03-12,Garlic,25,Dhemaji,FAQ,Silapathar,4000,3000,3500,Assam,Other
+2009-07-12,Garlic,25,Dhemaji,FAQ,Silapathar,4000,3000,3500,Assam,Other
+2009-02-04,Garlic,25,Jorhat,FAQ,Jorhat,1500,1300,1400,Assam,Other
+2009-02-06,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,3400,2000,3000,Assam,Other
+2009-09-06,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,3500,2500,3300,Assam,Other
+2009-04-07,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,2200,1800,2100,Assam,Other
+2009-02-09,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,4500,3000,4000,Assam,Other
+2009-08-09,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,4500,3500,4200,Assam,Other
+2009-07-10,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,5000,1800,4200,Assam,Other
+2009-06-11,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,4550,2800,4500,Assam,Other
+2009-11-11,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,4500,2800,4400,Assam,Other
+2009-03-12,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,5000,3000,4800,Assam,Other
+2009-08-12,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,5000,3000,4800,Assam,Other
+2009-11-12,Garlic,25,Kamrup,FAQ,P.O. Uparhali Guwahati,5000,3000,4800,Assam,Other
+2009-12-02,Garlic,25,Nagaon,FAQ,Lanka,1400,1300,1350,Assam,Other
+2009-03-09,Garlic,25,Amreli,FAQ,Dhari,2250,2250,2250,Gujarat,Garlic
+2009-10-10,Garlic,25,Amreli,FAQ,Dhari,1625,1250,1500,Gujarat,Garlic
+2009-05-11,Garlic,25,Amreli,FAQ,Dhari,2325,2325,2325,Gujarat,Garlic
+2009-03-12,Garlic,25,Amreli,FAQ,Dhari,2000,2000,2000,Gujarat,Garlic
+2009-10-12,Garlic,25,Amreli,FAQ,Dhari,2750,2750,2750,Gujarat,Garlic
+2009-08-09,Garlic,25,Banaskanth,FAQ,Deesa(Deesa Veg Yard),4000,3000,3500,Gujarat,Other
+2009-06-10,Garlic,25,Banaskanth,FAQ,Deesa(Deesa Veg Yard),3500,2500,3000,Gujarat,Other
+2009-10-10,Garlic,25,Banaskanth,FAQ,Deesa(Deesa Veg Yard),3500,2500,3000,Gujarat,Other
+2009-01-12,Garlic,25,Banaskanth,FAQ,Deesa(Deesa Veg Yard),3500,3000,3250,Gujarat,Other
+2009-08-12,Garlic,25,Botad,FAQ,Botad,7500,3500,5500,Gujarat,Other
+2009-06-03,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),800,300,600,Gujarat,Other
+2009-06-06,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),3200,1000,1300,Gujarat,Other
+2009-10-06,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),3500,1000,2700,Gujarat,Other
+2009-12-06,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),3500,1000,1800,Gujarat,Other
+2009-04-07,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2250,3500,Gujarat,Other
+2009-08-07,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),4500,2300,3500,Gujarat,Other
+2009-04-08,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),4500,2125,3875,Gujarat,Other
+2009-06-08,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),4500,2125,3850,Gujarat,Other
+2009-08-08,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),4500,2125,3750,Gujarat,Other
+2009-01-09,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),6000,3000,4700,Gujarat,Other
+2009-02-09,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),6000,3000,5000,Gujarat,Other
+2009-12-09,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),6000,2500,4500,Gujarat,Other
+2009-01-10,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,3000,4500,Gujarat,Other
+2009-03-10,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,3000,3500,Gujarat,Other
+2009-09-10,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),4500,2000,3000,Gujarat,Other
+2009-12-10,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5000,2000,3500,Gujarat,Other
+2009-01-11,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,3500,Gujarat,Other
+2009-05-11,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4500,Gujarat,Other
+2009-06-11,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4875,Gujarat,Other
+2009-05-12,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4500,Gujarat,Other
+2009-06-12,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4750,Gujarat,Other
+2009-08-12,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4750,Gujarat,Other
+2009-09-12,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),5500,2000,4500,Gujarat,Other
+2009-11-12,Garlic,25,Dahod,FAQ,Dahod(Veg. Market),6500,2000,5000,Gujarat,Other
+2009-04-05,Garlic,25,Jamnagar,FAQ,Jamnagar,2545,1000,1780,Gujarat,Other
+2009-02-06,Garlic,25,Jamnagar,FAQ,Jamnagar,2675,1125,1900,Gujarat,Other
+2009-06-06,Garlic,25,Jamnagar,FAQ,Jamnagar,2825,1250,2038,Gujarat,Other
+2009-01-08,Garlic,25,Jamnagar,FAQ,Jamnagar,3585,1850,2718,Gujarat,Other
+2009-11-08,Garlic,25,Jamnagar,FAQ,Jamnagar,4270,1850,3500,Gujarat,Other
+2009-09-09,Garlic,25,Jamnagar,FAQ,Jamnagar,3810,1500,3200,Gujarat,Other
+2009-08-10,Garlic,25,Jamnagar,FAQ,Jamnagar,3210,1000,2600,Gujarat,Other
+2009-09-10,Garlic,25,Jamnagar,FAQ,Jamnagar,3250,1500,2900,Gujarat,Other
+2009-12-10,Garlic,25,Jamnagar,FAQ,Jamnagar,3790,1250,3000,Gujarat,Other
+2009-09-11,Garlic,25,Jamnagar,FAQ,Jamnagar,3430,1875,2700,Gujarat,Other
+2009-01-12,Garlic,25,Jamnagar,FAQ,Jamnagar,4425,2070,3248,Gujarat,Other
+2009-12-03,Garlic,25,Junagarh,FAQ,Visavadar,395,235,315,Gujarat,Other
+2009-10-06,Garlic,25,Junagarh,FAQ,Visavadar,2800,1450,2125,Gujarat,Other
+2009-11-07,Garlic,25,Junagarh,FAQ,Visavadar,3320,2360,2840,Gujarat,Other
+2009-09-09,Garlic,25,Junagarh,FAQ,Visavadar,3400,2260,2830,Gujarat,Other
+2009-10-09,Garlic,25,Junagarh,FAQ,Visavadar,3700,2360,3030,Gujarat,Other
+2009-11-11,Garlic,25,Junagarh,FAQ,Visavadar,3755,2855,3305,Gujarat,Other
+2009-10-12,Garlic,25,Junagarh,FAQ,Visavadar,4150,3340,3745,Gujarat,Other
+2009-04-12,Garlic,25,Rajkot,FAQ,Dhoraji,4125,1480,2255,Gujarat,Average
+2009-11-12,Garlic,25,Rajkot,FAQ,Dhoraji,4355,1630,3075,Gujarat,Desi
+2009-07-05,Garlic,25,Rajkot,FAQ,Gondal,2680,500,1825,Gujarat,Garlic
+2009-08-05,Garlic,25,Rajkot,FAQ,Gondal,2855,500,1875,Gujarat,Garlic
+2009-11-05,Garlic,25,Rajkot,FAQ,Gondal,3070,500,2000,Gujarat,Garlic
+2009-07-01,Masur Dal,259,Dhanbad,FAQ,Dhanbad,4850,4650,4850,Jharkhand,Other
+2009-04-02,Masur Dal,259,Dhanbad,FAQ,Dhanbad,5100,4900,5000,Jharkhand,Other
+2009-06-02,Masur Dal,259,Dhanbad,FAQ,Dhanbad,5100,4900,5000,Jharkhand,Other
+2009-03-03,Masur Dal,259,Dhanbad,FAQ,Dhanbad,5000,4500,4700,Jharkhand,Other
+2009-12-07,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6500,6000,6200,Jharkhand,Other
+2009-09-10,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6000,5400,5750,Jharkhand,Other
+2009-10-10,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6000,5400,5700,Jharkhand,Other
+2009-02-11,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6200,5300,5800,Jharkhand,Other
+2009-06-11,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6200,5300,5800,Jharkhand,Other
+2009-11-11,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6200,5300,5800,Jharkhand,Other
+2009-06-12,Masur Dal,259,Dhanbad,FAQ,Dhanbad,6200,5600,6000,Jharkhand,Other
+2009-11-06,Masur Dal,259,East Singhbhum,FAQ,Chakulia,4850,4800,4800,Jharkhand,Other
+2009-04-07,Masur Dal,259,East Singhbhum,FAQ,Chakulia,4700,4650,4650,Jharkhand,Other
+2009-06-07,Masur Dal,259,East Singhbhum,FAQ,Chakulia,4700,4650,4650,Jharkhand,Other
+2009-10-07,Masur Dal,259,East Singhbhum,FAQ,Chakulia,4850,4800,4800,Jharkhand,Other
+2009-03-08,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5200,5000,5100,Jharkhand,Other
+2009-03-09,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5200,5000,5100,Jharkhand,Other
+2009-05-10,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5200,5000,5100,Jharkhand,Other
+2009-01-11,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-03-11,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-11-11,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-12-11,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-02-12,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-05-12,Masur Dal,259,East Singhbhum,FAQ,Chakulia,5600,5400,5500,Jharkhand,Other
+2009-04-01,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5250,5200,5200,Jharkhand,Other
+2009-06-01,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5050,5000,5000,Jharkhand,Other
+2009-11-01,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5250,5200,5200,Jharkhand,Other
+2009-09-03,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5050,5000,5000,Jharkhand,Other
+2009-04-06,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5150,5100,5100,Jharkhand,Other
+2009-12-06,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,5150,5100,5100,Jharkhand,Other
+2009-11-07,Masur Dal,259,East Singhbhum,FAQ,Jamshedpur,3050,3000,3000,Jharkhand,Other
+2009-01-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-02-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-05-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-09-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-10-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-12-04,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-03-05,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-06-05,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-03-06,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-04-06,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-06-06,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-01-07,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-10-07,Masur Dal,259,Garhwa,FAQ,Gadhwah,4400,4200,4300,Jharkhand,Other
+2009-09-08,Masur Dal,259,Garhwa,FAQ,Gadhwah,4600,4400,4500,Jharkhand,Other
+2009-11-08,Masur Dal,259,Garhwa,FAQ,Gadhwah,4600,4400,4500,Jharkhand,Other
+2009-01-09,Masur Dal,259,Garhwa,FAQ,Gadhwah,5700,5500,5600,Jharkhand,Other
+2009-12-09,Masur Dal,259,Garhwa,FAQ,Gadhwah,5500,5300,5400,Jharkhand,Other
+2009-01-10,Masur Dal,259,Garhwa,FAQ,Gadhwah,5500,5300,5400,Jharkhand,Other
+2009-06-10,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-10-10,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-01-11,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-03-11,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-06-11,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-11-11,Masur Dal,259,Garhwa,FAQ,Gadhwah,4200,4000,4100,Jharkhand,Other
+2009-06-12,Masur Dal,259,Garhwa,FAQ,Gadhwah,5000,4500,4750,Jharkhand,Other
+2009-10-02,Masur Dal,259,Giridih,FAQ,Giridih,4900,4800,4900,Jharkhand,Masur Dal
+2009-05-04,Masur Dal,259,Giridih,FAQ,Giridih,4800,4600,4800,Jharkhand,Masur Dal
+2009-02-10,Masur Dal,259,Gumla,FAQ,Gumla,6000,5800,5900,Jharkhand,Other
+2009-03-02,Masur Dal,259,Koderma,FAQ,Koderma,5200,5000,5100,Jharkhand,Other
+2009-07-02,Masur Dal,259,Koderma,FAQ,Koderma,5400,5000,5200,Jharkhand,Other
+2009-09-03,Masur Dal,259,Koderma,FAQ,Koderma,5200,4900,5000,Jharkhand,Other
+2009-03-06,Masur Dal,259,Koderma,FAQ,Koderma,4600,4400,4500,Jharkhand,Other
+2009-02-07,Masur Dal,259,Koderma,FAQ,Koderma,5400,5000,5200,Jharkhand,Other
+2009-02-08,Masur Dal,259,Koderma,FAQ,Koderma,5600,5300,5400,Jharkhand,Other
+2009-04-08,Masur Dal,259,Koderma,FAQ,Koderma,5600,5400,5500,Jharkhand,Other
+2009-04-08,Masur Dal,259,Pakur,FAQ,Pakur,6500,6300,6400,Jharkhand,Masur Dal
+2009-03-09,Masur Dal,259,Pakur,FAQ,Pakur,6250,6000,6200,Jharkhand,Masur Dal
+2009-03-10,Masur Dal,259,Pakur,FAQ,Pakur,6300,6000,6200,Jharkhand,Masur Dal
+2009-09-10,Masur Dal,259,Pakur,FAQ,Pakur,6300,6150,6200,Jharkhand,Masur Dal
+2009-10-10,Masur Dal,259,Pakur,FAQ,Pakur,6300,6150,6200,Jharkhand,Masur Dal
+2009-10-12,Masur Dal,259,Pakur,FAQ,Pakur,6300,6150,6200,Jharkhand,Masur Dal
+2009-11-12,Masur Dal,259,Pakur,FAQ,Pakur,6300,6150,6200,Jharkhand,Masur Dal
+2009-01-01,Masur Dal,259,Pakur,FAQ,Pakur,5900,5700,5800,Jharkhand,Other
+2009-03-01,Masur Dal,259,Pakur,FAQ,Pakur,6000,5700,5900,Jharkhand,Other
+2009-07-01,Masur Dal,259,Pakur,FAQ,Pakur,6000,5700,5900,Jharkhand,Other
+2009-10-01,Masur Dal,259,Pakur,FAQ,Pakur,6100,5900,6000,Jharkhand,Other
+2009-03-09,Masur Dal,259,Palamu,FAQ,Daltenganj,6000,5500,5800,Jharkhand,Masur Dal
+2009-05-09,Masur Dal,259,Palamu,FAQ,Daltenganj,6000,5500,5800,Jharkhand,Masur Dal
+2009-08-09,Masur Dal,259,Palamu,FAQ,Daltenganj,5800,5400,5700,Jharkhand,Masur Dal
+2009-11-09,Masur Dal,259,Palamu,FAQ,Daltenganj,5800,5400,5700,Jharkhand,Masur Dal
+2009-04-12,Masur Dal,259,Palamu,FAQ,Daltenganj,6400,6200,6300,Jharkhand,Masur Dal
+2009-05-12,Masur Dal,259,Palamu,FAQ,Daltenganj,6400,6200,6300,Jharkhand,Masur Dal
+2009-08-12,Masur Dal,259,Palamu,FAQ,Daltenganj,6400,6200,6300,Jharkhand,Masur Dal
+2009-12-12,Masur Dal,259,Palamu,FAQ,Daltenganj,6000,5800,6000,Jharkhand,Masur Dal
+2009-07-04,Masur Dal,259,Palamu,FAQ,Daltenganj,4800,4500,4700,Jharkhand,Other
+2009-05-06,Masur Dal,259,Palamu,FAQ,Daltenganj,5200,4800,5100,Jharkhand,Other
+2009-10-06,Masur Dal,259,Palamu,FAQ,Daltenganj,5400,5000,5200,Jharkhand,Other
+2009-01-07,Masur Dal,259,Palamu,FAQ,Daltenganj,5400,5000,5200,Jharkhand,Other
+2009-04-07,Masur Dal,259,Palamu,FAQ,Daltenganj,5800,5500,5600,Jharkhand,Other
+2009-06-07,Masur Dal,259,Palamu,FAQ,Daltenganj,5700,5500,5600,Jharkhand,Other
+2009-08-07,Masur Dal,259,Palamu,FAQ,Daltenganj,5700,5500,5600,Jharkhand,Other
+2009-09-07,Masur Dal,259,Palamu,FAQ,Daltenganj,5700,5500,5600,Jharkhand,Other
+2009-01-08,Masur Dal,259,Palamu,FAQ,Daltenganj,5800,5600,5700,Jharkhand,Other
+2009-07-08,Masur Dal,259,Palamu,FAQ,Daltenganj,5800,5600,5700,Jharkhand,Other
+2009-02-05,Masur Dal,259,Ranchi,FAQ,Khunti,5400,5200,5300,Jharkhand,Masur Dal
+2009-04-05,Masur Dal,259,Ranchi,FAQ,Khunti,5400,5200,5300,Jharkhand,Masur Dal
+2009-03-06,Masur Dal,259,Ranchi,FAQ,Khunti,5300,5100,5200,Jharkhand,Masur Dal
+2009-04-06,Masur Dal,259,Ranchi,FAQ,Khunti,5300,5100,5200,Jharkhand,Masur Dal
+2009-06-06,Masur Dal,259,Ranchi,FAQ,Khunti,5300,5100,5200,Jharkhand,Masur Dal
+2009-10-06,Masur Dal,259,Ranchi,FAQ,Khunti,5300,5100,5200,Jharkhand,Masur Dal
+2009-05-08,Masur Dal,259,Ranchi,FAQ,Khunti,5500,5300,5400,Jharkhand,Masur Dal
+2009-06-08,Masur Dal,259,Ranchi,FAQ,Khunti,5500,5300,5400,Jharkhand,Masur Dal
+2009-07-09,Masur Dal,259,Ranchi,FAQ,Khunti,5600,5400,5500,Jharkhand,Masur Dal
+2009-11-09,Masur Dal,259,Ranchi,FAQ,Khunti,5800,5600,5700,Jharkhand,Masur Dal
+2009-01-10,Masur Dal,259,Ranchi,FAQ,Khunti,6200,5800,6000,Jharkhand,Masur Dal
+2009-06-10,Masur Dal,259,Ranchi,FAQ,Khunti,6200,5800,5900,Jharkhand,Masur Dal
+2009-08-10,Masur Dal,259,Ranchi,FAQ,Khunti,6200,5800,5900,Jharkhand,Masur Dal
+2009-04-11,Masur Dal,259,Ranchi,FAQ,Khunti,6600,6400,6500,Jharkhand,Masur Dal
+2009-07-11,Masur Dal,259,Ranchi,FAQ,Khunti,6600,6400,6500,Jharkhand,Masur Dal
+2009-10-11,Masur Dal,259,Ranchi,FAQ,Khunti,6600,6400,6500,Jharkhand,Masur Dal
+2009-05-12,Masur Dal,259,Ranchi,FAQ,Khunti,6600,6400,6500,Jharkhand,Masur Dal
+2009-08-05,Masur Dal,259,Ranchi,FAQ,Khunti,3600,3400,3500,Jharkhand,Other
+2009-02-06,Masur Dal,259,Ranchi,FAQ,Khunti,3600,3400,3500,Jharkhand,Other
+2009-03-06,Masur Dal,259,Ranchi,FAQ,Khunti,3600,3400,3500,Jharkhand,Other
+2009-05-06,Masur Dal,259,Ranchi,FAQ,Khunti,3600,3400,3500,Jharkhand,Other
+2009-03-07,Masur Dal,259,Ranchi,FAQ,Khunti,4100,3900,4000,Jharkhand,Other
+2009-09-11,Masur Dal,259,Cachar,FAQ,Cachar,6700,5700,6500,Assam,Other
+2009-11-11,Masur Dal,259,Cachar,FAQ,Cachar,6700,5700,6200,Assam,Other
+2009-01-04,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,6000,4500,4500,Assam,Other
+2009-03-04,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,4900,4500,4500,Assam,Other
+2009-01-06,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,5900,4800,4850,Assam,Other
+2009-03-06,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,5900,4850,4850,Assam,Other
+2009-09-06,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,5900,4900,4900,Assam,Other
+2009-03-08,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,6350,5850,5850,Assam,Other
+2009-05-08,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,6350,5850,5850,Assam,Other
+2009-11-08,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,6300,5900,5900,Assam,Other
+2009-12-10,Masur Dal,259,Dibrugarh,FAQ,Dibrugarh,6300,5650,5975,Assam,Other
+2009-08-12,Masur Dal,259,Goalpara,FAQ,Goalpara,6200,5400,5800,Assam,Other
+2009-11-11,Masur Dal,259,Golaghat,FAQ,Golaghat,6500,5800,6200,Assam,Other
+2009-08-12,Masur Dal,259,Golaghat,FAQ,Golaghat,6500,6200,6300,Assam,Other
+2009-05-09,Masur Dal,259,Jorhat,FAQ,Jorhat,6800,6300,6700,Assam,Other
+2009-01-01,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6500,6450,6460,Assam,Masur Dal
+2009-03-01,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6500,6450,6460,Assam,Masur Dal
+2009-07-01,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6500,6450,6460,Assam,Masur Dal
+2009-09-01,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6500,6450,6460,Assam,Masur Dal
+2009-03-04,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6399,4300,6250,Assam,Masur Dal
+2009-06-04,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6450,6230,6250,Assam,Masur Dal
+2009-03-06,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5900,6100,Assam,Masur Dal
+2009-04-06,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5900,6100,Assam,Masur Dal
+2009-02-07,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6250,5800,6100,Assam,Masur Dal
+2009-04-07,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5800,6100,Assam,Masur Dal
+2009-10-07,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6250,6000,6100,Assam,Masur Dal
+2009-07-08,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6800,6400,6500,Assam,Masur Dal
+2009-10-08,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6280,5950,6200,Assam,Masur Dal
+2009-04-09,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6700,6400,6600,Assam,Masur Dal
+2009-10-09,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6600,6400,6450,Assam,Masur Dal
+2009-06-10,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6600,6400,6500,Assam,Masur Dal
+2009-07-10,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6600,6400,6450,Assam,Masur Dal
+2009-10-11,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6600,6300,6500,Assam,Masur Dal
+2009-01-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6700,6300,6600,Assam,Masur Dal
+2009-05-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6600,6000,6200,Assam,Masur Dal
+2009-07-01,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,5900,5480,5700,Assam,Other
+2009-07-05,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,5500,4300,4700,Assam,Other
+2009-03-06,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,5400,4800,5100,Assam,Other
+2009-06-06,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,5400,4800,5100,Assam,Other
+2009-10-06,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,5400,4800,5000,Assam,Other
+2009-05-08,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6500,5800,6200,Assam,Other
+2009-03-09,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6300,5750,6200,Assam,Other
+2009-05-10,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6300,5600,6200,Assam,Other
+2009-09-10,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5550,6100,Assam,Other
+2009-06-11,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5500,6100,Assam,Other
+2009-07-11,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5500,6100,Assam,Other
+2009-04-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6200,5800,6000,Assam,Other
+2009-07-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6150,5800,6000,Assam,Other
+2009-08-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6150,5800,6000,Assam,Other
+2009-10-12,Masur Dal,259,Kamrup,FAQ,P.O. Uparhali Guwahati,6150,5800,6000,Assam,Other
+2009-09-01,Masur Dal,259,Karimganj,FAQ,Karimganj,6000,5000,5800,Assam,Other
+2009-07-07,Masur Dal,259,Karimganj,FAQ,Karimganj,6500,5500,6000,Assam,Other
+2009-05-08,Masur Dal,259,Karimganj,FAQ,Karimganj,6500,5500,6000,Assam,Other
+2009-11-08,Masur Dal,259,Karimganj,FAQ,Karimganj,6500,5500,6000,Assam,Other
+2009-06-10,Masur Dal,259,Karimganj,FAQ,Karimganj,6500,5500,6000,Assam,Other
+2009-04-12,Masur Dal,259,Nagaon,FAQ,Lanka,6200,5800,6000,Assam,Other
+2009-07-12,Masur Dal,259,Nagaon,FAQ,Lanka,6200,5900,6000,Assam,Other
+2009-01-12,Masur Dal,259,Nalbari,FAQ,Nalbari,6000,5800,5900,Assam,Other
+2009-05-12,Masur Dal,259,Nalbari,FAQ,Nalbari,6500,6300,6400,Assam,Other
+2009-02-01,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4012,4012,4012,Chattisgarh,Masoor Gola
+2009-03-01,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3900,3900,3900,Chattisgarh,Masoor Gola
+2009-09-01,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4021,4021,4021,Chattisgarh,Masoor Gola
+2009-12-01,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3961,3961,3961,Chattisgarh,Masoor Gola
+2009-11-05,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3626,3525,3580,Chattisgarh,Masoor Gola
+2009-03-06,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3765,3701,3750,Chattisgarh,Masoor Gola
+2009-06-06,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3721,3691,3691,Chattisgarh,Masoor Gola
+2009-02-07,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4361,4200,4351,Chattisgarh,Masoor Gola
+2009-04-07,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4252,4252,4252,Chattisgarh,Masoor Gola
+2009-07-07,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4357,4051,4200,Chattisgarh,Masoor Gola
+2009-07-11,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4450,4450,4450,Chattisgarh,Masoor Gola
+2009-09-11,Masur Dal,259,Balodabazar,FAQ,Bhatapara,4450,4450,4450,Chattisgarh,Masoor Gola
+2009-02-04,Masur Dal,259,Balodabazar,FAQ,Bhatapara,3448,3323,3390,Chattisgarh,Other
+2009-02-04,Masur Dal,259,Rajnandgaon,FAQ,Rajnandgaon,3381,3381,3381,Chattisgarh,Masoor Gola
+2009-08-04,Masur Dal,259,Rajnandgaon,FAQ,Rajnandgaon,3475,3350,3422,Chattisgarh,Masoor Gola
+2009-11-05,Masur Dal,259,Rajnandgaon,FAQ,Rajnandgaon,3460,3422,3436,Chattisgarh,Masoor Gola
+2009-01-08,Masur Dal,259,Rajnandgaon,FAQ,Rajnandgaon,4314,4306,4306,Chattisgarh,Masoor Gola
+2009-06-05,Masur Dal,259,Amreli,FAQ,Lathi,3425,3085,3350,Gujarat,Kala Masoor New
+2009-06-03,Masur Dal,259,Amreli,FAQ,Lathi,3475,3400,3437,Gujarat,Masoor Gola
+2009-07-05,Masur Dal,259,Amreli,FAQ,Lathi,3360,3185,3300,Gujarat,Masoor Gola
+2009-01-06,Masur Dal,259,Amreli,FAQ,Lathi,3500,3350,3450,Gujarat,Masoor Gola
+2009-04-06,Masur Dal,259,Amreli,FAQ,Lathi,3520,3280,3495,Gujarat,Masoor Gola
+2009-08-06,Masur Dal,259,Amreli,FAQ,Lathi,3545,3340,3495,Gujarat,Masoor Gola
+2009-02-07,Masur Dal,259,Amreli,FAQ,Lathi,3975,3900,3950,Gujarat,Masoor Gola
+2009-05-02,Masur Dal,259,Bokaro,FAQ,Bermo,4860,4580,4730,Jharkhand,Other
+2009-12-02,Masur Dal,259,Bokaro,FAQ,Bermo,4880,4560,4760,Jharkhand,Other
+2009-02-06,Masur Dal,259,Bokaro,FAQ,Bermo,5170,5040,5100,Jharkhand,Other
+2009-08-06,Masur Dal,259,Bokaro,FAQ,Bermo,5160,5060,5110,Jharkhand,Other
+2009-09-07,Masur Dal,259,Bokaro,FAQ,Bermo,5190,5070,5170,Jharkhand,Other
+2009-04-12,Masur Dal,259,Bokaro,FAQ,Bermo,6360,6220,6250,Jharkhand,Other
+2009-09-03,Masur Dal,259,Bokaro,FAQ,Bokaro (Chas),5200,4700,5100,Jharkhand,Other
+2009-11-05,Masur Dal,259,Bokaro,FAQ,Bokaro (Chas),4550,4450,4500,Jharkhand,Other
+2009-06-10,Masur Dal,259,Bokaro,FAQ,Bokaro (Chas),6350,6150,6300,Jharkhand,Other
+2009-12-10,Masur Dal,259,Bokaro,FAQ,Bokaro (Chas),6100,5900,6000,Jharkhand,Other
+2009-02-09,Garlic,25,Rajkot,FAQ,Gondal,3985,1250,2900,Gujarat,Garlic
+2009-10-09,Garlic,25,Rajkot,FAQ,Gondal,4355,1250,2750,Gujarat,Garlic
+2009-07-11,Garlic,25,Rajkot,FAQ,Gondal,4395,1750,3250,Gujarat,Garlic
+2009-09-11,Garlic,25,Rajkot,FAQ,Gondal,4140,1750,3000,Gujarat,Garlic
+2009-10-11,Garlic,25,Rajkot,FAQ,Gondal,4350,1750,3000,Gujarat,Garlic
+2009-01-12,Garlic,25,Rajkot,FAQ,Gondal,4565,2250,3750,Gujarat,Garlic
+2009-07-12,Garlic,25,Rajkot,FAQ,Gondal,6250,2250,3750,Gujarat,Garlic
+2009-08-12,Garlic,25,Rajkot,FAQ,Gondal,5655,2000,3750,Gujarat,Garlic
+2009-12-12,Garlic,25,Rajkot,FAQ,Gondal,4950,1750,3500,Gujarat,Garlic
+2009-02-03,Garlic,25,Rajkot,FAQ,Gondal,1830,530,1475,Gujarat,New Laddu
+2009-04-03,Garlic,25,Rajkot,FAQ,Gondal,2140,560,1900,Gujarat,New Laddu
+2009-10-08,Garlic,25,Rajkot,FAQ,Jasdan,520,520,520,Gujarat,Other
+2009-09-09,Garlic,25,Rajkot,FAQ,Jasdan,612,612,612,Gujarat,Other
+2009-08-10,Garlic,25,Rajkot,FAQ,Jasdan,2000,750,1400,Gujarat,Other
+2009-07-11,Garlic,25,Rajkot,FAQ,Jasdan,3150,1355,2500,Gujarat,Other
+2009-06-06,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),4505,1125,2000,Gujarat,Garlic
+2009-08-06,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),2855,1005,2005,Gujarat,Garlic
+2009-01-07,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3450,1125,2235,Gujarat,Garlic
+2009-03-09,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3805,1305,2675,Gujarat,Garlic
+2009-08-10,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3255,1355,2305,Gujarat,Garlic
+2009-05-11,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3980,2265,2810,Gujarat,Garlic
+2009-07-11,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3955,2705,3065,Gujarat,Garlic
+2009-10-11,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),3375,1250,2625,Gujarat,Garlic
+2009-11-11,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),4630,1250,2625,Gujarat,Garlic
+2009-04-12,Garlic,25,Rajkot,FAQ,Jetpur(Dist.Rajkot),4430,2355,3230,Gujarat,Garlic
+2009-01-05,Garlic,25,Rajkot,FAQ,Rajkot,2280,550,1750,Gujarat,Garlic
+2009-04-07,Garlic,25,Rajkot,FAQ,Rajkot,3450,1100,2500,Gujarat,Garlic
+2009-10-07,Garlic,25,Rajkot,FAQ,Rajkot,3375,1090,2500,Gujarat,Garlic
+2009-01-08,Garlic,25,Rajkot,FAQ,Rajkot,3800,1150,3250,Gujarat,Garlic
+2009-07-08,Garlic,25,Rajkot,FAQ,Rajkot,3800,1125,2750,Gujarat,Garlic
+2009-01-09,Garlic,25,Rajkot,FAQ,Rajkot,3920,1650,3250,Gujarat,Garlic
+2009-05-09,Garlic,25,Rajkot,FAQ,Rajkot,3535,1750,3000,Gujarat,Garlic
+2009-09-09,Garlic,25,Rajkot,FAQ,Rajkot,3750,1870,3125,Gujarat,Garlic
+2009-12-09,Garlic,25,Rajkot,FAQ,Rajkot,3725,1700,3375,Gujarat,Garlic
+2009-10-11,Garlic,25,Rajkot,FAQ,Rajkot,3600,1900,2500,Gujarat,Garlic
+2009-12-11,Garlic,25,Rajkot,FAQ,Rajkot,3650,1950,2750,Gujarat,Garlic
+2009-02-12,Garlic,25,Rajkot,FAQ,Rajkot,3800,1875,2875,Gujarat,Garlic
+2009-03-12,Garlic,25,Rajkot,FAQ,Rajkot,3850,1900,3250,Gujarat,Garlic
+2009-05-12,Garlic,25,Rajkot,FAQ,Rajkot,4000,1850,2725,Gujarat,Garlic
+2009-07-12,Garlic,25,Rajkot,FAQ,Rajkot,4100,2000,3250,Gujarat,Garlic
+2009-12-06,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,4000,2500,3500,Gujarat,Other
+2009-08-07,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,4000,2000,3500,Gujarat,Other
+2009-11-07,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,7500,6000,7000,Gujarat,Other
+2009-03-08,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,5500,4000,4800,Gujarat,Other
+2009-06-08,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,5500,4000,5000,Gujarat,Other
+2009-11-08,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,10000,8000,9000,Gujarat,Other
+2009-02-10,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,5500,4000,5000,Gujarat,Other
+2009-07-12,Garlic,25,Vadodara(Baroda),FAQ,Vadodara,5000,3500,4600,Gujarat,Other
+2009-01-03,Garlic,25,Ambala,FAQ,Ambala Cantt.,800,600,700,Haryana,Other
+2009-05-03,Garlic,25,Ambala,FAQ,Ambala Cantt.,850,800,825,Haryana,Other
+2009-02-04,Garlic,25,Ambala,FAQ,Ambala Cantt.,600,400,500,Haryana,Other
+2009-11-04,Garlic,25,Ambala,FAQ,Ambala Cantt.,1000,800,900,Haryana,Other
+2009-03-06,Garlic,25,Ambala,FAQ,Ambala Cantt.,1200,800,1000,Haryana,Other
+2009-04-07,Garlic,25,Ambala,FAQ,Ambala Cantt.,1500,1000,1250,Haryana,Other
+2009-05-07,Garlic,25,Ambala,FAQ,Ambala Cantt.,1500,1000,1250,Haryana,Other
+2009-11-07,Garlic,25,Ambala,FAQ,Ambala Cantt.,1800,1500,1650,Haryana,Other
+2009-01-08,Garlic,25,Ambala,FAQ,Ambala Cantt.,2000,1500,1750,Haryana,Other
+2009-02-08,Garlic,25,Ambala,FAQ,Ambala Cantt.,1000,700,850,Haryana,Other
+2009-06-08,Garlic,25,Ambala,FAQ,Ambala Cantt.,2000,1500,1750,Haryana,Other
+2009-09-08,Garlic,25,Ambala,FAQ,Ambala Cantt.,2000,1500,1700,Haryana,Other
+2009-12-09,Garlic,25,Ambala,FAQ,Ambala Cantt.,2400,2200,2300,Haryana,Other
+2009-01-10,Garlic,25,Ambala,FAQ,Ambala Cantt.,2400,2200,2300,Haryana,Other
+2009-11-10,Garlic,25,Ambala,FAQ,Ambala Cantt.,2200,2000,2100,Haryana,Other
+2009-10-11,Garlic,25,Ambala,FAQ,Ambala Cantt.,2000,1600,1800,Haryana,Other
+2009-11-11,Garlic,25,Ambala,FAQ,Ambala Cantt.,2000,1600,1800,Haryana,Other
+2009-08-12,Garlic,25,Ambala,FAQ,Ambala Cantt.,3200,2000,2600,Haryana,Other
+2009-11-12,Garlic,25,Ambala,FAQ,Ambala Cantt.,3200,2000,3000,Haryana,Other
+2009-06-03,Garlic,25,Ambala,FAQ,Naraingarh,1000,1000,1000,Haryana,Other
+2009-10-04,Garlic,25,Ambala,FAQ,Naraingarh,800,800,800,Haryana,Other
+2009-04-05,Garlic,25,Ambala,FAQ,Naraingarh,1000,1000,1000,Haryana,Other
+2009-01-06,Garlic,25,Ambala,FAQ,Naraingarh,1400,1000,1200,Haryana,Other
+2009-04-06,Garlic,25,Ambala,FAQ,Naraingarh,1000,1000,1000,Haryana,Other
+2009-11-08,Garlic,25,Ambala,FAQ,Naraingarh,2000,2000,2000,Haryana,Other
+2009-06-10,Garlic,25,Ambala,FAQ,Naraingarh,2500,2500,2500,Haryana,Other
+2009-09-10,Garlic,25,Ambala,FAQ,Naraingarh,2000,2000,2000,Haryana,Other
+2009-07-11,Garlic,25,Ambala,FAQ,Naraingarh,2000,2000,2000,Haryana,Other
+2009-05-12,Garlic,25,Ambala,FAQ,Naraingarh,3000,2500,2750,Haryana,Other
+2009-06-05,Garlic,25,Ambala,FAQ,Shahzadpur,975,975,975,Haryana,Other
+2009-11-03,Garlic,25,Bhiwani,FAQ,Ch. Dadri,1800,1500,1700,Haryana,Garlic
+2009-01-04,Garlic,25,Bhiwani,FAQ,Ch. Dadri,1400,1000,1200,Haryana,Garlic
+2009-08-04,Garlic,25,Bhiwani,FAQ,Ch. Dadri,2000,1500,1800,Haryana,Garlic
+2009-01-05,Garlic,25,Bhiwani,FAQ,Ch. Dadri,1500,800,1000,Haryana,Garlic
+2009-05-08,Garlic,25,Bhiwani,FAQ,Ch. Dadri,3600,2800,3200,Haryana,Garlic
+2009-11-08,Garlic,25,Bhiwani,FAQ,Ch. Dadri,3300,2800,3000,Haryana,Garlic
+2009-06-09,Garlic,25,Bhiwani,FAQ,Ch. Dadri,3400,3000,3200,Haryana,Garlic
+2009-12-10,Garlic,25,Bhiwani,FAQ,Ch. Dadri,4500,3500,4000,Haryana,Garlic
+2009-01-11,Garlic,25,Bhiwani,FAQ,Ch. Dadri,4000,3000,3500,Haryana,Garlic
+2009-02-11,Garlic,25,Fatehabad,FAQ,Bhuna,2200,2200,2200,Haryana,Other
+2009-05-11,Garlic,25,Fatehabad,FAQ,Bhuna,3500,3500,3500,Haryana,Other
+2009-06-11,Garlic,25,Fatehabad,FAQ,Bhuna,2500,2500,2500,Haryana,Other
+2009-02-05,Garlic,25,Fatehabad,FAQ,Fatehabad,1500,1200,1500,Haryana,Other
+2009-12-05,Garlic,25,Fatehabad,FAQ,Fatehabad,1500,1500,1500,Haryana,Other
+2009-08-06,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,1500,1800,Haryana,Other
+2009-03-07,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,1500,2000,Haryana,Other
+2009-03-08,Garlic,25,Fatehabad,FAQ,Fatehabad,2500,2500,2500,Haryana,Other
+2009-04-08,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,2000,2000,Haryana,Other
+2009-10-08,Garlic,25,Fatehabad,FAQ,Fatehabad,2500,2000,2200,Haryana,Other
+2009-05-09,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,2000,2000,Haryana,Other
+2009-09-09,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,2000,2000,Haryana,Other
+2009-12-09,Garlic,25,Fatehabad,FAQ,Fatehabad,2000,2000,2000,Haryana,Other
+2009-02-10,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2000,3000,Haryana,Other
+2009-03-10,Garlic,25,Fatehabad,FAQ,Fatehabad,2500,2500,2500,Haryana,Other
+2009-07-10,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2500,3000,Haryana,Other
+2009-08-10,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2500,3000,Haryana,Other
+2009-02-11,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2000,2500,Haryana,Other
+2009-03-11,Garlic,25,Fatehabad,FAQ,Fatehabad,2500,1000,1700,Haryana,Other
+2009-12-11,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2000,2500,Haryana,Other
+2009-04-12,Garlic,25,Fatehabad,FAQ,Fatehabad,3000,2000,2500,Haryana,Other
+2009-10-12,Garlic,25,Fatehabad,FAQ,Fatehabad,1500,1000,1200,Haryana,Other
+2009-06-06,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1800,1000,1400,Haryana,Other
+2009-12-07,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1500,1500,1500,Haryana,Other
+2009-04-08,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1000,1000,1000,Haryana,Other
+2009-12-08,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1500,1500,1500,Haryana,Other
+2009-02-09,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1200,1200,1200,Haryana,Other
+2009-04-10,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,2500,1500,2000,Haryana,Other
+2009-06-10,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,2000,1500,1700,Haryana,Other
+2009-08-10,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1200,1000,1100,Haryana,Other
+2009-03-12,Garlic,25,Yamuna Nagar,FAQ,Jagadhri,1200,1000,1100,Haryana,Other
+2009-07-03,Garlic,25,Yamuna Nagar,FAQ,Yamuna Nagar,1600,300,900,Haryana,Other
+2009-05-04,Garlic,25,Yamuna Nagar,FAQ,Yamuna Nagar,800,700,750,Haryana,Other
+2009-06-04,Garlic,25,Yamuna Nagar,FAQ,Yamuna Nagar,800,700,750,Haryana,Other
+2009-02-05,Garlic,25,Yamuna Nagar,FAQ,Yamuna Nagar,900,700,800,Haryana,Other
+2009-01-04,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3240,Uttar Pradesh,Masoor Gola
+2009-03-04,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3280,Uttar Pradesh,Masoor Gola
+2009-10-04,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3400,Uttar Pradesh,Masoor Gola
+2009-02-05,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3475,Uttar Pradesh,Masoor Gola
+2009-07-05,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3320,Uttar Pradesh,Masoor Gola
+2009-10-06,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,3460,Uttar Pradesh,Masoor Gola
+2009-01-07,Masur Dal,259,Jhansi,FAQ,Mauranipur,0,0,4000,Uttar Pradesh,Masoor Gola
+2009-03-03,Masur Dal,259,Jhansi,FAQ,Moth,0,0,2950,Uttar Pradesh,Other
+2009-07-03,Masur Dal,259,Jhansi,FAQ,Moth,0,0,3060,Uttar Pradesh,Other
+2009-03-04,Masur Dal,259,Jhansi,FAQ,Moth,0,0,3400,Uttar Pradesh,Other
+2009-04-04,Masur Dal,259,Jhansi,FAQ,Moth,0,0,3405,Uttar Pradesh,Other
+2009-10-01,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4350,Uttar Pradesh,Other
+2009-03-02,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4400,Uttar Pradesh,Other
+2009-04-02,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4500,Uttar Pradesh,Other
+2009-10-02,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4700,Uttar Pradesh,Other
+2009-07-03,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4800,Uttar Pradesh,Other
+2009-01-04,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4780,Uttar Pradesh,Other
+2009-04-04,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4780,Uttar Pradesh,Other
+2009-10-04,Masur Dal,259,Lucknow,FAQ,Lucknow,0,0,4800,Uttar Pradesh,Other
+2009-02-05,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1125,650,887,Gujarat,Hybrid
+2009-07-05,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1175,700,937,Gujarat,Hybrid
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1200,700,950,Gujarat,Hybrid
+2009-02-07,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,900,750,825,Gujarat,Hybrid
+2009-04-07,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,900,700,800,Gujarat,Hybrid
+2009-10-07,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,875,700,787,Gujarat,Hybrid
+2009-02-10,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1000,750,875,Gujarat,Hybrid
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1000,750,875,Gujarat,Hybrid
+2009-03-11,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1250,1000,1125,Gujarat,Hybrid
+2009-08-12,Bajra(Pearl Millet/Cumbu),28,Surendranagar,FAQ,Chotila,1250,1250,1250,Gujarat,Hybrid
+2009-05-06,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,900,800,850,Gujarat,Hybrid
+2009-11-06,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,900,800,850,Gujarat,Hybrid
+2009-09-07,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,950,800,850,Gujarat,Hybrid
+2009-06-08,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,950,800,850,Gujarat,Hybrid
+2009-11-08,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,950,800,850,Gujarat,Hybrid
+2009-03-09,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,1000,925,950,Gujarat,Hybrid
+2009-07-09,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,1000,950,975,Gujarat,Hybrid
+2009-02-10,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,1000,950,975,Gujarat,Hybrid
+2009-05-10,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Karjan,950,900,925,Gujarat,Hybrid
+2009-07-03,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Savli,900,800,850,Gujarat,Deshi
+2009-03-07,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Savli,850,800,825,Gujarat,Deshi
+2009-09-11,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Savli,1100,1025,1075,Gujarat,Deshi
+2009-02-06,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Savli(Desar),1010,925,950,Gujarat,Deshi
+2009-01-01,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,880,870,875,Gujarat,Deshi
+2009-05-01,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,880,870,880,Gujarat,Deshi
+2009-06-01,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,880,870,880,Gujarat,Deshi
+2009-09-01,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,880,870,880,Gujarat,Deshi
+2009-09-02,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,1150,1150,1150,Gujarat,Deshi
+2009-12-03,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,950,950,950,Gujarat,Deshi
+2009-01-04,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,950,950,950,Gujarat,Deshi
+2009-06-05,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,1080,1075,1080,Gujarat,Deshi
+2009-01-06,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,875,870,875,Gujarat,Deshi
+2009-08-08,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,1000,970,1000,Gujarat,Deshi
+2009-09-09,Bajra(Pearl Millet/Cumbu),28,Vadodara(Baroda),FAQ,Vadodara,1080,1040,1080,Gujarat,Deshi
+2009-03-10,Bajra(Pearl Millet/Cumbu),28,Rewari,FAQ,Rewari,840,790,800,Haryana,Other
+2009-10-10,Bajra(Pearl Millet/Cumbu),28,Rewari,FAQ,Rewari,845,840,842,Haryana,Other
+2009-12-10,Bajra(Pearl Millet/Cumbu),28,Rewari,FAQ,Rewari,850,815,835,Haryana,Other
+2009-10-12,Bajra(Pearl Millet/Cumbu),28,Rewari,FAQ,Rewari,973,913,925,Haryana,Other
+2009-10-01,Bajra(Pearl Millet/Cumbu),28,Sirsa,FAQ,Ellanabad,851,851,851,Haryana,Local
+2009-04-12,Bajra(Pearl Millet/Cumbu),28,Sirsa,FAQ,Ellanabad,950,950,950,Haryana,Other
+2009-08-12,Bajra(Pearl Millet/Cumbu),28,Sirsa,FAQ,Ellanabad,950,950,950,Haryana,Other
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Badami,700,700,700,Karnataka,Hybrid
+2009-12-01,Bajra(Pearl Millet/Cumbu),28,Bagalkot,FAQ,Bagalakot,675,671,672,Karnataka,Hybrid
+2009-12-02,Bajra(Pearl Millet/Cumbu),28,Bagalkot,FAQ,Bagalakot,725,725,725,Karnataka,Hybrid
+2009-03-03,Bajra(Pearl Millet/Cumbu),28,Bagalkot,FAQ,Bagalakot,700,700,700,Karnataka,Hybrid
+2009-03-04,Bajra(Pearl Millet/Cumbu),28,Bagalkot,FAQ,Bagalakot,742,742,742,Karnataka,Hybrid
+2009-10-09,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,785,706,775,Karnataka,Hybrid
+2009-12-09,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,791,768,772,Karnataka,Hybrid
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,792,700,768,Karnataka,Hybrid
+2009-12-10,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,785,670,709,Karnataka,Hybrid
+2009-02-11,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,778,688,719,Karnataka,Hybrid
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,810,688,722,Karnataka,Hybrid
+2009-10-11,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,818,737,741,Karnataka,Hybrid
+2009-02-12,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,808,751,768,Karnataka,Hybrid
+2009-11-12,Bajra(Pearl Millet/Cumbu),28,Bagalkot,Medium,Bagalakot,823,763,766,Karnataka,Hybrid
+2009-11-02,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1050,900,1000,Karnataka,Hybrid
+2009-12-02,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1050,900,1000,Karnataka,Hybrid
+2009-04-03,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1050,900,1000,Karnataka,Hybrid
+2009-09-03,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1075,930,1010,Karnataka,Hybrid
+2009-09-03,Bajra(Pearl Millet/Cumbu),28,Bangalore,Local,Bangalore,1075,930,1010,Karnataka,Hybrid
+2009-12-03,Bajra(Pearl Millet/Cumbu),28,Bangalore,Local,Bangalore,1075,930,1010,Karnataka,Hybrid
+2009-04-04,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1000,900,975,Karnataka,Hybrid
+2009-08-04,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1000,900,975,Karnataka,Hybrid
+2009-11-06,Bajra(Pearl Millet/Cumbu),28,Bangalore,Medium,Bangalore,1200,950,1075,Karnataka,Hybrid
+2009-02-07,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1075,Karnataka,Hybrid
+2009-09-07,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1075,Karnataka,Hybrid
+2009-01-08,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1075,Karnataka,Hybrid
+2009-12-08,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1075,Karnataka,Hybrid
+2009-01-10,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1100,Karnataka,Hybrid
+2009-03-10,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1100,Karnataka,Hybrid
+2009-02-11,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1100,Karnataka,Hybrid
+2009-01-12,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1200,950,1100,Karnataka,Hybrid
+2009-03-12,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1300,900,1100,Karnataka,Hybrid
+2009-08-12,Bajra(Pearl Millet/Cumbu),28,Bangalore,FAQ,Bangalore,1150,900,1050,Karnataka,Hybrid
+2009-06-12,Bajra(Pearl Millet/Cumbu),28,Belgaum,Medium,Ramdurga,790,680,740,Karnataka,Hybrid
+2009-09-09,Bajra(Pearl Millet/Cumbu),28,Bellary,FAQ,Bellary,831,766,794,Karnataka,Hybrid
+2009-01-04,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,H.B. Halli,730,730,730,Karnataka,Hybrid
+2009-02-07,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,H.B. Halli,750,750,750,Karnataka,Hybrid
+2009-11-10,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,H.B. Halli,730,720,730,Karnataka,Hybrid
+2009-11-11,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,H.B. Halli,750,750,750,Karnataka,Hybrid
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Bellary,FAQ,Hoovinahadagali,750,750,750,Karnataka,Hybrid
+2009-03-11,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,Kottur,750,750,750,Karnataka,Hybrid
+2009-11-11,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,Kottur,803,803,803,Karnataka,Hybrid
+2009-08-12,Bajra(Pearl Millet/Cumbu),28,Bellary,Medium,Kottur,821,798,806,Karnataka,Hybrid
+2009-06-11,Bajra(Pearl Millet/Cumbu),28,Bellary,FAQ,Sirguppa,800,800,800,Karnataka,Hybrid
+2009-06-01,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,900,690,800,Karnataka,Local
+2009-09-01,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,850,700,750,Karnataka,Local
+2009-06-02,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,825,700,750,Karnataka,Local
+2009-04-03,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,750,680,726,Karnataka,Local
+2009-05-03,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,750,680,700,Karnataka,Local
+2009-09-03,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,761,676,710,Karnataka,Local
+2009-01-04,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,900,780,830,Karnataka,Local
+2009-02-04,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,850,770,820,Karnataka,Local
+2009-06-04,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,926,751,850,Karnataka,Local
+2009-05-06,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,765,740,750,Karnataka,Local
+2009-03-10,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,760,730,750,Karnataka,Local
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,780,750,770,Karnataka,Local
+2009-03-11,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,1125,750,950,Karnataka,Local
+2009-05-12,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,950,800,850,Karnataka,Local
+2009-11-12,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Basava Kalayana,951,775,850,Karnataka,Local
+2009-02-05,Bajra(Pearl Millet/Cumbu),28,Bidar,FAQ,Bidar,1206,1086,1140,Karnataka,Local
+2009-07-02,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,745,715,725,Karnataka,Hybrid
+2009-10-02,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,725,675,710,Karnataka,Hybrid
+2009-04-05,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,800,740,765,Karnataka,Hybrid
+2009-07-05,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,850,750,800,Karnataka,Hybrid
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,825,750,775,Karnataka,Hybrid
+2009-09-06,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,800,725,750,Karnataka,Hybrid
+2009-07-07,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,800,740,765,Karnataka,Hybrid
+2009-08-07,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,800,750,775,Karnataka,Hybrid
+2009-09-11,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,725,650,700,Karnataka,Hybrid
+2009-10-11,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,775,700,750,Karnataka,Hybrid
+2009-04-12,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Bijapur,841,743,800,Karnataka,Hybrid
+2009-10-01,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Talikot,739,600,675,Karnataka,Hybrid
+2009-03-02,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Talikot,770,600,690,Karnataka,Hybrid
+2009-12-02,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Talikot,752,600,650,Karnataka,Hybrid
+2009-09-03,Bajra(Pearl Millet/Cumbu),28,Bijapur,Local,Talikot,760,600,680,Karnataka,Hybrid
+2009-11-04,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Talikot,820,600,700,Karnataka,Hybrid
+2009-06-05,Bajra(Pearl Millet/Cumbu),28,Bijapur,FAQ,Talikot,741,600,650,Karnataka,Hybrid
+2009-12-11,Bajra(Pearl Millet/Cumbu),28,Gadag,FAQ,Rona,703,696,700,Karnataka,Hybrid
+2009-04-11,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Chittapur,710,700,700,Karnataka,Local
+2009-03-10,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,750,650,700,Karnataka,Local
+2009-05-10,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,750,650,700,Karnataka,Local
+2009-11-11,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,1050,725,825,Karnataka,Local
+2009-02-12,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,1050,770,950,Karnataka,Local
+2009-04-12,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,1050,775,950,Karnataka,Local
+2009-12-12,Bajra(Pearl Millet/Cumbu),28,Kalburgi,FAQ,Kalburgi,1000,735,900,Karnataka,Local
+2009-08-09,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Gangavathi,800,780,780,Karnataka,Local
+2009-05-10,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,758,656,700,Karnataka,Hybrid
+2009-08-10,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,771,701,730,Karnataka,Hybrid
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,725,651,680,Karnataka,Hybrid
+2009-09-11,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,744,726,732,Karnataka,Hybrid
+2009-02-03,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,722,690,700,Karnataka,Local
+2009-12-03,Bajra(Pearl Millet/Cumbu),28,Koppal,Local,Koppal,739,680,700,Karnataka,Local
+2009-09-04,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,750,745,746,Karnataka,Local
+2009-04-05,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,766,735,740,Karnataka,Local
+2009-04-06,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Koppal,792,772,780,Karnataka,Local
+2009-08-11,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Kustagi,716,716,716,Karnataka,Hybrid
+2009-11-01,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Kustagi,781,781,781,Karnataka,Local
+2009-08-02,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Kustagi,730,730,730,Karnataka,Local
+2009-12-07,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Kustagi,702,702,702,Karnataka,Local
+2009-07-03,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Yalburga,700,700,700,Karnataka,Hybrid
+2009-04-08,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Yalburga,740,740,740,Karnataka,Hybrid
+2009-12-11,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Yalburga,700,700,700,Karnataka,Hybrid
+2009-07-12,Bajra(Pearl Millet/Cumbu),28,Koppal,FAQ,Yalburga,735,735,735,Karnataka,Hybrid
+2009-02-02,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,768,742,747,Karnataka,Hybrid
+2009-04-02,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,783,763,783,Karnataka,Hybrid
+2009-05-02,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,750,750,750,Karnataka,Hybrid
+2009-11-02,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,795,700,755,Karnataka,Hybrid
+2009-04-04,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,882,820,850,Karnataka,Hybrid
+2009-06-04,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,830,780,820,Karnataka,Hybrid
+2009-05-10,Bajra(Pearl Millet/Cumbu),28,Raichur,FAQ,Lingasugur,883,710,720,Karnataka,Hybrid
+2009-10-12,Bajra(Pearl Millet/Cumbu),28,Gandhinagar,FAQ,Mansa(Manas Veg Yard),1610,1125,1130,Gujarat,Other
+2009-03-01,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1030,685,857.5,Gujarat,Hybrid
+2009-11-02,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,965,870,917.5,Gujarat,Hybrid
+2009-03-03,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1080,750,915,Gujarat,Hybrid
+2009-02-04,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1115,875,995,Gujarat,Hybrid
+2009-06-04,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1125,800,962.5,Gujarat,Hybrid
+2009-02-05,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1110,660,885,Gujarat,Hybrid
+2009-02-06,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,835,675,755,Gujarat,Hybrid
+2009-06-06,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,835,650,742.5,Gujarat,Hybrid
+2009-12-06,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,880,775,827.5,Gujarat,Hybrid
+2009-03-07,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,870,800,835,Gujarat,Hybrid
+2009-06-07,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,890,675,782.5,Gujarat,Hybrid
+2009-09-07,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,950,890,920,Gujarat,Hybrid
+2009-11-07,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,920,875,897.5,Gujarat,Hybrid
+2009-11-09,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,975,760,867.5,Gujarat,Hybrid
+2009-02-10,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,975,750,862.5,Gujarat,Hybrid
+2009-04-11,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1145,905,1025,Gujarat,Hybrid
+2009-02-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1190,900,1050,Gujarat,Hybrid
+2009-03-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1115,1075,1100,Gujarat,Hybrid
+2009-04-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1120,1095,1110,Gujarat,Hybrid
+2009-05-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1155,1085,1125,Gujarat,Hybrid
+2009-10-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1185,985,1125,Gujarat,Hybrid
+2009-11-12,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Kodinar,1245,985,1175,Gujarat,Hybrid
+2009-06-04,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Una,925,900,910,Gujarat,Other
+2009-12-05,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Una,885,875,880,Gujarat,Other
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Gir Somnath,FAQ,Una,1055,1000,1025,Gujarat,Other
+2009-07-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,1115,900,1005,Gujarat,Other
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,1125,950,1035,Gujarat,Other
+2009-03-06,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,1050,900,975,Gujarat,Other
+2009-08-06,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,950,800,875,Gujarat,Other
+2009-04-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,850,750,800,Gujarat,Other
+2009-08-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,875,650,760,Gujarat,Other
+2009-11-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,920,500,710,Gujarat,Other
+2009-04-09,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,950,750,850,Gujarat,Other
+2009-07-09,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,1025,750,885,Gujarat,Other
+2009-10-09,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Dhrol,970,750,860,Gujarat,Other
+2009-09-02,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,155,110,140,Gujarat,Deshi
+2009-09-04,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,200,150,175,Gujarat,Deshi
+2009-04-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,210,155,190,Gujarat,Hybrid
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,215,180,200,Gujarat,Hybrid
+2009-01-06,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,175,150,160,Gujarat,Hybrid
+2009-10-06,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,140,110,130,Gujarat,Hybrid
+2009-11-07,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jam Jodhpur,172,120,145,Gujarat,Hybrid
+2009-01-01,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1030,585,808,Gujarat,Other
+2009-02-01,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,900,660,780,Gujarat,Other
+2009-05-01,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,890,800,845,Gujarat,Other
+2009-06-01,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,875,750,813,Gujarat,Other
+2009-04-02,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,945,850,898,Gujarat,Other
+2009-07-02,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,900,750,825,Gujarat,Other
+2009-10-02,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,980,775,875,Gujarat,Other
+2009-06-03,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,980,825,905,Gujarat,Other
+2009-11-04,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1055,900,978,Gujarat,Other
+2009-06-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1140,970,1060,Gujarat,Other
+2009-11-05,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1080,950,1015,Gujarat,Other
+2009-06-06,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,925,625,775,Gujarat,Other
+2009-02-07,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,710,625,668,Gujarat,Other
+2009-04-07,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,890,625,758,Gujarat,Other
+2009-01-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,870,750,810,Gujarat,Other
+2009-06-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,965,555,785,Gujarat,Other
+2009-11-08,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,995,705,850,Gujarat,Other
+2009-01-10,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1085,860,973,Gujarat,Other
+2009-03-11,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1190,1145,1170,Gujarat,Other
+2009-06-11,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1335,1000,1170,Gujarat,Other
+2009-12-11,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1200,800,1050,Gujarat,Other
+2009-01-12,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1335,1060,1198,Gujarat,Other
+2009-08-12,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,1230,1055,1150,Gujarat,Other
+2009-09-12,Bajra(Pearl Millet/Cumbu),28,Jamnagar,FAQ,Jamnagar,950,800,875,Gujarat,Other
+2009-02-01,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,850,700,800,Gujarat,Local
+2009-02-02,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,850,750,800,Gujarat,Local
+2009-05-03,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1040,700,850,Gujarat,Local
+2009-10-04,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1110,1000,1025,Gujarat,Local
+2009-11-04,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,960,960,960,Gujarat,Local
+2009-09-06,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,970,750,825,Gujarat,Local
+2009-10-07,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1100,900,1025,Gujarat,Local
+2009-07-08,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1015,850,975,Gujarat,Local
+2009-02-09,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1005,850,950,Gujarat,Local
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1040,875,985,Gujarat,Local
+2009-10-10,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1025,950,1000,Gujarat,Local
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1215,900,1050,Gujarat,Local
+2009-02-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1065,900,1000,Gujarat,Local
+2009-12-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Junagadh,1140,950,1045,Gujarat,Local
+2009-02-02,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,930,900,920,Gujarat,Hybrid
+2009-09-02,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1025,900,1000,Gujarat,Hybrid
+2009-04-03,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1050,1000,1030,Gujarat,Hybrid
+2009-05-03,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1075,1025,1050,Gujarat,Hybrid
+2009-07-05,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1150,950,1025,Gujarat,Hybrid
+2009-04-06,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1050,950,1025,Gujarat,Hybrid
+2009-12-06,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1025,950,1000,Gujarat,Hybrid
+2009-03-07,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1025,950,1000,Gujarat,Hybrid
+2009-11-08,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1025,1010,1020,Gujarat,Hybrid
+2009-02-09,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1150,1075,1125,Gujarat,Hybrid
+2009-05-10,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1100,1000,1075,Gujarat,Hybrid
+2009-06-10,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1100,950,1050,Gujarat,Hybrid
+2009-10-10,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1125,1000,1075,Gujarat,Hybrid
+2009-03-11,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1150,1000,1100,Gujarat,Hybrid
+2009-10-11,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1200,1100,1150,Gujarat,Hybrid
+2009-02-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1200,1000,1100,Gujarat,Hybrid
+2009-04-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1100,1000,1060,Gujarat,Hybrid
+2009-05-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Mangrol,1200,1100,1160,Gujarat,Hybrid
+2009-04-06,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,1005,825,915,Gujarat,Other
+2009-11-07,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,975,815,895,Gujarat,Other
+2009-06-08,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,910,700,805,Gujarat,Other
+2009-07-09,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,945,755,850,Gujarat,Other
+2009-12-09,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,920,840,880,Gujarat,Other
+2009-05-11,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,930,700,815,Gujarat,Other
+2009-10-11,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,1060,870,965,Gujarat,Other
+2009-11-12,Bajra(Pearl Millet/Cumbu),28,Junagarh,FAQ,Visavadar,1175,975,1075,Gujarat,Other
+2009-12-11,Bajra(Pearl Millet/Cumbu),28,Kachchh,FAQ,Rapar,230,228,229,Gujarat,Other
+2009-01-01,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,650,625,630,Gujarat,Other
+2009-05-01,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,650,625,630,Gujarat,Other
+2009-05-05,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,1025,1000,1020,Gujarat,Other
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,975,950,960,Gujarat,Other
+2009-02-09,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,950,900,920,Gujarat,Other
+2009-02-10,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,900,850,870,Gujarat,Other
+2009-03-10,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,900,850,875,Gujarat,Other
+2009-04-10,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,900,850,875,Gujarat,Other
+2009-01-11,Bajra(Pearl Millet/Cumbu),28,Kheda,FAQ,Balasinor,975,925,950,Gujarat,Other
+2009-10-04,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1100,900,1000,Gujarat,Other
+2009-01-05,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1175,750,1175,Gujarat,Other
+2009-08-05,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1050,900,1000,Gujarat,Other
+2009-09-06,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,850,650,775,Gujarat,Other
+2009-10-06,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,875,725,775,Gujarat,Other
+2009-06-08,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,918.75,750,900,Gujarat,Other
+2009-07-08,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,990,850,950,Gujarat,Other
+2009-10-08,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1032.5,950,1000,Gujarat,Other
+2009-02-09,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1040,1000,1025,Gujarat,Other
+2009-07-09,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1050,850,1030,Gujarat,Other
+2009-09-09,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1025,655,975,Gujarat,Other
+2009-10-09,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1040,800,1000,Gujarat,Other
+2009-06-10,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1010,815,960,Gujarat,Other
+2009-08-10,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1075,750,1010,Gujarat,Other
+2009-09-10,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1025,925,965,Gujarat,Other
+2009-07-11,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1200,1000,1075,Gujarat,Other
+2009-10-11,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1200,1000,1100,Gujarat,Other
+2009-05-12,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana,1250,950,1075,Gujarat,Other
+2009-07-03,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1065,850,1000,Gujarat,Other
+2009-02-04,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1025,850,975,Gujarat,Other
+2009-04-04,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1050,840,900,Gujarat,Other
+2009-08-04,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1030,895,975,Gujarat,Other
+2009-04-05,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1215,1165,1175,Gujarat,Other
+2009-12-05,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1125,1050,1100,Gujarat,Other
+2009-12-06,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),850,795,830,Gujarat,Other
+2009-01-07,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),835,775,805,Gujarat,Other
+2009-08-07,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),940,900,920,Gujarat,Other
+2009-07-08,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),925,900,910,Gujarat,Other
+2009-10-08,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1000,960,970,Gujarat,Other
+2009-05-09,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1015,975,985,Gujarat,Other
+2009-09-11,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1610,1165,1550,Gujarat,Other
+2009-09-12,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1705,1175,1240,Gujarat,Other
+2009-11-12,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Mehsana(Jornang),1675,1165,1200,Gujarat,Other
+2009-03-01,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,815,725,790,Gujarat,Other
+2009-09-06,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,790,700,770,Gujarat,Other
+2009-02-10,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,975,940,960,Gujarat,Other
+2009-05-11,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,1200,1075,1175,Gujarat,Other
+2009-06-11,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,1200,1000,1160,Gujarat,Other
+2009-07-12,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Vijapur,840,830,835,Gujarat,Other
+2009-01-01,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Visnagar,885,650,775,Gujarat,Other
+2009-02-01,Bajra(Pearl Millet/Cumbu),28,Mehsana,FAQ,Visnagar,885,650,770,Gujarat,Other
